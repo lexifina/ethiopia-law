@@ -1,0 +1,11 @@
+# Preamble
+
+Licensing of Insurance Loss Assessors and Loss Adjustors Directive No. 98/2020 National Bank of Ethiopia
+
+LICENSING AND SUPERVISION OF
+
+INSURANCE BUSINESS
+
+LICENSING OF INSURANCE LOSS
+
+ASSESSORS AND LOSS ADJUSTORS DIRECTIVE No. 98/2020
