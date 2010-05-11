@@ -1,0 +1,9 @@
+# Preamble
+PROCLAMATION NO. 669/2010.
+A PROCLAMATION TO AMEND THE OFFICE OF THE FEDERAL AUDITOR GENERAL ESTABLISHMENT PROCLAMATION
+WHEREAS, strengthening the audit system in the country plays an important role in providing reliable data useful for the effective management and administration of the national economy;
+WHEREAS, it is necessary to ascertain that the financial management of the federal government offices and organizations in various developmental and administrative activities follow proper accounting procedures, that the manner of revenue collection, fund disbursement and property management is in accordance with government rules and regulations, and that their plan and program are carried out and regulations, and that their plan and program are carried out efficiently and economically with a view to attaining their objectives;
+WHEREAS, audit is an effective instrument in reflecting the new democratic system by ensuring proper accountability in the various federal government offices and organizations within the state structure;
+WHEREAS, it is necessary that the government of the Federal Democratic Republic of Ethiopia economic policy be supported by a modern and reliable audit system in order to ascertain proper implementation through effective monitoring of administrative, developmental and service rendering institutions in the federal public sector;
+WHEREAS, in order to realize the objectives of the aforementioned it has been shown in the recently undertaken Business Processing Re-engineering activity that it is necessary to further strengthening and improving the professional independency and competency of the Auditor General and the Office of the Federal Auditor General;
+NOW, THEREFORE, in accordance with Article 55 sub article (1) of the Constitution of the Federal Democratic Republic of Ethiopia it is hereby proclaimed as follows:
