@@ -1,0 +1,6 @@
+# Preamble
+PROCLAMATION No.1004/ 2017
+THE FEDERAL DEMOCRATAIC REPUBLIC OF ETHIOPIA HOUSE OF PEOPLES' REPRESENTATIVES STATE OF EMEREGENCY PROCLAMTION FOR THE MAINTENACE OF PUBLIC PEACE AND SECURITY RENEWAL PROCALAMTION
+WHERE AS, the State of Emergency Proclamation for the Maintenance of Public Peace and Security No. 1/2016,issued by the Council of Ministers, on the 8th day of October ,2016 has been approved by the House of the Peoples' Representatives with Proclamation No. 984/2016 ,and it has become necessary to attain irreversible level of the relative peace and security attained as a result of activities performed during the past six months to put under control the danger directed against the constitution and constitutional order;
+WHERE AS, considering the wish of the people for the continued application of the State of Emergency Proclamation and to control the security problems observed in some parts of our country;
+NOW THEREFORE, in accordance with Article 93(3) and Article 55(8) of the Constitution of the Federal Democratic Republic of Ethiopia, the State of Emergency Proclamation for the Maintenance of Peace and Security is hereby renewed for the coming four months as follows:
