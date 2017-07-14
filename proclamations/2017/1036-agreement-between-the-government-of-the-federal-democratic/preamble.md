@@ -1,0 +1,4 @@
+# Preamble
+PROCLAMATION No.1036/2017
+APROCLAMATION TO RATIFY THE AGREEMENT BETWEEN THE GOVERNMENT OF THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE GOVERNMENT OF THE REPUBLIC OF SINGAPORE FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME
+Whereas, an Agreement for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income was signed between the Government of the Federal Democratic Republic of Ethiopia and Government of the Republic of Singapore on the 24th day of August 2016, in Singapore; Whereas, the House of Peoples' Representatives of the Federal Democratic Republic of Ethiopia has ratified the said agreement at its session held on 29th day of June 2017; Now, therefore, in accordance with Article 55(1) and (12) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows:
