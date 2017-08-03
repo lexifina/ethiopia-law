@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION No.1044/2017
+A PROCLAMATION TO RATIFY THE LOAN AGREEMENET BETWEEN THE GOVEREMENT OF FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND EXPORT- IMPORT BANK OF CHINA
+WHEREAS , a loan agreement between the Government of Federal Democratic Republic of Ethiopia and the Export-Import Bank of China stipulating that the Export-Import bank of China provide to the Government of the Federal Democratic Republic of Ethiopia a loan in an amount equivalent to 218,692,400.00 USD (two hundred eighteen million, six hundred ninety two thousand, four hundred United States Dollar) for financing the Aysha Wind Power Project was signed in Beijing on the 12th day of May 2017;
+WHEREAS, the House of Peoples' Representatives of the Federal Democratic Republic of Ethiopia has ratified the said Loan Agreement at its session held on 5th day of July 2017; Now, therefore, in accordance with Article 55(1) and (12) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows:
