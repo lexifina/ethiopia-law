@@ -1,0 +1,7 @@
+# Preamble
+PROCLAMATION NO. 1137 /2019
+PROCLAMATION TO RATIFY THE LOAN AGREEMENT BETWEEN FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND EXPORT- IMPORT BANK OF CHINA
+WHEREAS, A Loan Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Export-Import Bank of China under which the Export - Import Bank of China agreed to provide to the Government of Federal Democratic Republic of Ethiopia a Concessional Loan in an amount of Renminbi Yuan 1,070,000,000 (Renminbi Yuan One Billion and Seventy Million) for financing the Mekelle Water Supply Development Project was signed in Beijing on 13th day of June, 2018;
+WHEREAS, A Frame Work Loan Agreement between the Government of the Federal Democratic Republic of Ethiopia and the Government of the People's Republic of China under which the Government of the People's Republic of China through the Export - Import Bank of China agreed to provide to the Federal Democratic Republic of Ethiopia an interest free Loan in an amount of Renminbi Yuan 540,000,000 (Renminbi Yuan Five Hundred and Forty Million) for financing the Mekelle Water Supply Development Project was signed in Addis Ababa on 10th day of May, 2018.
+WHEREAS, the House of the People's Representatives of the Federal Democratic Republic of Ethiopia has ratified the said Agreement at its session held on the 5th day of April, 2019 ;
+NOW THEREFORE, in accordance with Article 55 (1) and (12) of the Constitution of the Federal Democratic Republic of Ethiopia,it is hereby Proclamined as follows:
