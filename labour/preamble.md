@@ -1,0 +1,8 @@
+# Preamble
+LABOUR PROCLAMATION
+WHERE AS, it is essential to ensure worker-employer relations are governed by basic principles of rights and obligations with a view to enabling workers and employers to secure durable industrial peace; sustainable productivity and competitiveness through cooperative engagement towards the all-round development of our country;
+WHEREAS, it has been found necessary to lay down a working system that guarantees the rights of workers and employers to freely establish their respective associations and to engage, through their duly authorized representatives, in social dialogue and collective bargaining, as well as to draw up procedures for the expeditious settlement of labour disputes, which arise between them;
+WHEREAS, there is a need to create favorable environment for investment and achievement of national economic goals without scarifying fundamental workplace rights by laying down well considered labour administration; and determine the duties and responsibilities of governmental organs entrusted with the power to monitor labour conditions; occupational health and safety; and environmental protection together with bilateral and tripartite social dialogue mechanisms;
+political, economic and social policies of the Country;
+WHEREAS, it has been found necessary to reformulate the existing labour law with a view to attaining the aforementioned objectives and in accordance with the and in conformity with the international conventions and other legal commitments to which Ethiopia is a party;
+NOW,THEREFORE, in accordance with Article 55 (1) and (3) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows:
