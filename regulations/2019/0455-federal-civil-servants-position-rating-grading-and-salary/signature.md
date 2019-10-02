@@ -1,0 +1,5 @@
+Done at Addis Ababa, on this 2nd day of
+October, 2019.
+ABIY AHMED (Dr.)
+PRIME MINISTER OF THE FEDERAL
+DEMOCRATIC REPUBLIC OF ETHIOPIA
