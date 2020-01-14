@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION NO 1171/2019
+A PROCLAMATION TO RATIFY THE LOAN AGREEMENT BETWEEN THE GOVERNMENT OF FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+WHEREAS, the Loan Agreement, between the Government of the Federal Democratic Republic of Ethiopia and the International Development Association stipulating that the International Development Association provide to the Federal Democratic Republic of Ethiopia a Loan amount equivalent to (SDR 216,500,000) Two Hundred Sixteen Million Five Hundred Thousand Special Drawing Rights for financing Consolidated Water Supply, Sanitation and Hygiene Account Project, was signed in Addis Ababa on 21st Day of June , 2019;
+WHEREAS, the House of Peoples' Representatives of the Federal Democratic Republic of Ethiopia has ratified said Credit Facility Agreement at its session held on 5th Day of November 2017; NOW, THERFORE, in accordance with Article 55 (1) and (12) of the Federal Democratic Republic of Ethiopia Constitution, it is hereby proclaimed as follows:
