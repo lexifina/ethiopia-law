@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION NO. 1192/2020
+A PROCLAMATION TO RATIFY THE FINANCING AGREEMENT BETWEEN THE GOVERNMENT OF THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+WHEREAS, a Financing Agreement, between the Government of the Federal Democratic Republic of Ethiopia and the International Development Association stipulating that the International Development Association shall provide to the Government of the Federal Democratic Republic of Ethiopia a Loan an amount equivalent to 54,900,000.00 Special Drawing Rights (Fifty Four Million Nine Hundred Thousand SDR) for financing the Africa CDC Regional Investment Project, was signed in Addis Ababa on 6th day of February 2020;
+WHEREAS, the House of Peoples' Representatives of the Federal Democratic Republic of Ethiopia has ratified the said Agreement at its special session held on the 10th day of April, 2020 NOW, THERFORE, in accordance with Article 55 (1) and (12) of the Federal Democratic Republic of Ethiopia Constitution, it is hereby proclaimed as follows:
