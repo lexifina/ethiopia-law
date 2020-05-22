@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION NO.1195/2020
+A PROCLAMATION TO RATIFY THE LOAN AGREEMENT BETWEEN THE GOVERMRNT OF FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE SAUDI FUND FOR DEVELOPMENT
+WHEREAS, the Loan Agreement, between the Government of the Federal Democratic Republic of Ethiopia and the Saudi Fund For Development stipulating that the Saudi Fund For Development provide to the Federal Democratic Republic of Ethiopia a Loan amount of 281,250,000 (Two Hundred Eighty One Million Two Hundred Fifty Thousand Saudi Riyals ) Saudi Riyals for financing Debremarcos-Mota Road Rehabilitation and Upgrading Project, was signed in Addis Ababa on 18th Day of December 2019;
+WHEREAS, the House of Peoples' Representatives of the Federal Democratic Republic of Ethiopia has ratified said Credit Facility Agreement at its session held on 30th Day of April 2020; NOW, THERFORE, in accordance with Article 55 Sub-Articles (1) and (12) of the Federal Democratic Republic of Ethiopia Constitution, it is hereby proclaimed as follows:
