@@ -1,0 +1,6 @@
+# Preamble
+REGULATION NO. 469/2020
+A REGULATION TO DETERMINE ADMINISTRATIVE PENALTIES FOR ROAD RAFFIC VIOLATIONS WHICH ARE INDICATED ON REGULATION AND DIRECTIVES ISSUED TO PREVENT AND CONTROL COVID-19 PANDEMIC.
+WHEREAS, it is provided that transport related restrictions have been imposed as per the emergency Regulations and Directive; and that it is found necessary to impose administrative fine on all persons who violate such restrictions despite the provision that such trespasses would entail criminal liability in accordance with Article 6 of the state of Emergency Proclamation as this application could burden the criminal justice system;
+WHEREAS it is has become necessary to adopt equivalent and deterring administrative fine for violations of the restrictions imposed in the Regulations and Directive as the fine provisions of Road Transport Traffic Control Regulation No. 208/2011 and Regulation /Amendment/ No. 395/2017 do not fully cover the restrictions imposed in the emergency Regulations and Directives and that those covered are not strong enough to deter trespassers, hence suspend them for the emergency period on issues covered by this Regulation;
+The Council of Ministers, pursuant to Article 4 of The state of Emergency Proclamation No. 3/2020, has hereby issued this Regulation.
