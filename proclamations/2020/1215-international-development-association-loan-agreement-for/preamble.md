@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION NO. 1215/2020
+A PROCLAMATION TO RATIFY THE LOAN AGREEMENT BETWEEN THE GOVWRNMENT OF THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+WHEREAS, the Loan Agreement, between the Federal Democratic Republic of Ethiopia and the International Development Association stipulating that the International Development Association shall provide to the Government of the Federal Democratic Republic of Ethiopia a Loan amount equivalent to Special Drawing Rights (SDR 91,500,000.00) for COVID-19 ( ninety one million five hundred thousand SDR ) Supplemental Financing to the Second Ethiopia Growth and Competitiveness Programmatic Development Policy, was signed in Addis Ababa on 18th day of June, 2020;
+WHERE AS, the House of Peoples' Representatives of the Federal Democratic Republic of Ethiopia has ratified the said Agreement at its session held on the 25th day of June , 2020 NOW, THERFORE, in accordance with Article 55 (1) and (12) of the Constitution of the Federal Democratic Repblic of Ethiopia , it is hereby proclaimed as follows:
