@@ -1,0 +1,7 @@
+# Preamble
+Proclamation No.1243/2021
+The Commercial Code of the Federal Democratic Republic of Ethiopia
+Laying a firm legal foundation for the conduct of commercial activities is a prerequisite for ensuring economic development and public benefit; The Commercial Code issued in 1952 was fit for purpose at the time of its issuance. In fact, it was way ahead of the stage of development in Ethiopia during that era.
+Many things have, however, changed in the six decades since its issuance; commerce and the flow of capital have not only grown significantly but have also taken increasingly transnational nature; this has put the law to the test, particularly, since Ethiopia started to pursue market-led economic system. Gaps and insufficiencies have, thus, surfaced. Besides, it transpired that the Code contains several provisions that are difficult to implement and open to various interpretations; In short, it has proved to be inadequate for the level of economic activity in Ethiopia today, much less the requirements of the decades ahead.
+Revising the law to strike the right balance between the interests of investors, traders and other stakeholders that are directly affected by it has been found to be necessary in order to bolster commerce and improve the standard of living of citizens; Ensuring the global competitiveness of Ethiopia too requires modernizing the Commercial Code.
+It has, therefore, been promulgated pursuant to Article 55(4) of the Constitution of the Federal Democratic Republic of Ethiopia as follows:-
