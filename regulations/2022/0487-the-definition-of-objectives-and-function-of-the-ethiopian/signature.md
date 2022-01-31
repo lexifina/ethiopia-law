@@ -1,0 +1,5 @@
+Done at Addis Ababa on this 31st day of
+January, 2022.
+ABIY AHMED (Dr.)
+PRIME MINISTER OF THE FEDERAL
+DEMOCRATIC REPUBLIC OF ETHIOPIA
