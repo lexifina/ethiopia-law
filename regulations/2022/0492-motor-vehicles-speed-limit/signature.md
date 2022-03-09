@@ -1,0 +1,6 @@
+Done at Addis Ababa, on this 9th day of
+March 2022
+ABIY AHMED /Dr./
+PRIME MINISTER OF THE FEDERAL
+DEMOCRATIC REPUBLIC
+OF ETHIOPIA
