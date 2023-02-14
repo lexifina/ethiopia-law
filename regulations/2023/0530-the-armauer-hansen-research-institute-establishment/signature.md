@@ -1,0 +1,6 @@
+Done at Addis Ababa, on this 14th day of
+February, 2023
+ABIY AHMED (DR)
+PRIME MINISTER OF THE FEDERAL
+DEMOCRATIC REPUBLIC OF
+ETHIOPIA
