@@ -1,0 +1,11 @@
+# The Ethiopian Railways Corporation Establishment Amendment Regulation No. 532/2023
+
+The Ethiopian Railways Corporation Establishment Amendment Â· 1 versions, from 2023-04-03 (latest in force: 2023-04-03) Â· <https://justice.gov.et/wp-content/uploads/2025/02/ደንብ-ቁጥር-532-2015.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-001.md](art-001.md) | 0 |  |
+| Article 2 | [art-002.md](art-002.md) | 0 |  |
+| Article 3 | [art-003.md](art-003.md) | 0 |  |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Signature | [signature.md](signature.md) | 0 |  |
