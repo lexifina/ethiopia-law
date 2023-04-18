@@ -1,0 +1,9 @@
+# Preamble
+PROCLAMATION NO. 1284 /2023
+ETHIOPIAN DIGITAL IDENTIFICATION PROCLAMATION
+WHEREAS, the establishment of a reliable Digital Identification System in Ethiopia ensures the Resident's right to be identified, enhances the ability to exercise other rights, improves trust between service providers and residents, creates a nationwide enabling environment to ensure transparency, accountability and efficiency;
+WHEREAS, establishing a technologically developed, cross sectorial foundational Digital Identification System, helps to plan national development effectively, create economic transformation, ensure good governance, reduce wastage of resources, eliminate redundancy and ensure inclusiveness when policies are designed and development plans are executed;
+WHEREAS, establishing a nationwide Digital Identification System is important to institute a reliable, accessible and secured system, and to promote the country's social, political and economic development and predictability, to ensure the overall peace and security of Residents and reinforcing the justice system;
+WHEREAS, it is necessary to establish a legal basis for the use of Digital Identification in a comprehensive, consistent and reliable method by establishing a Digital Identification System for the registration of Residents of the country and by retaining the information of the Registrants; properly define the trust framework and legalize the relationship between the various stakeholders of the Digital Identification System, including the Registrant, Registrar, Relying Party, Authentication Service Provider and the Digital Identification Institution;
+NOW, THEREFORE, in accordance with Article 55(1) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows.
+General Provisions
