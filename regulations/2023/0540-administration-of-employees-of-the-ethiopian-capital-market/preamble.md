@@ -1,0 +1,4 @@
+# Preamble
+REGULATION NO.540/2023
+COUNCIL OF MINISTERS REGULATION TO PROVIDE FOR THE ADMINISTRATION OF EMPLOYEES OF THE ETHIOPIAN CAPITAL MARKET AUTHORITY
+The Council of Ministers issued this Regulation pursuant to Article 110 of the Capital Market Proclamation No.1248/2021.
