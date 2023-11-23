@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION NO. 1303/2023
+A PROCLAMATION TO RATIFY THE LOAN AGREEMENT BETWEEN THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE GOVERNMENT OF ITALIAN REPUBLIC
+WHEREAS, the Loan Agreement, between the Federal Democratic Republic Government of Ethiopia and the Government of the Italian Republic stipulating that the Government of the Italian Republic shall provide to the Federal Democratic Republic of Ethiopia a Loan an amount equivalent to Twenty Two Million Euro (Euro 22,000,000.00) for financing Support for the Operationalization and Sustainability of Integrated Agro-industrial Parks in Ethiopia Project, was signed in Addis Ababa on 17th day of January, 2023;
+WHEREAS, the House of Peoples' Representatives of The Federal Democratic Republic of Ethiopia has ratified the said agreement at its 3rd year working period, 1st ordinary session held on 12th Day of October, 2023; NOW,THERFORE, in accordance with Article 55 Sub-Articles (1) and (12) of the Constitution, it is hereby proclaimed as follows:
