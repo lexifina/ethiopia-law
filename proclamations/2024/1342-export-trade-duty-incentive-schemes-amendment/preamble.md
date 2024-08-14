@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION No.768/2011
+WHEREAS, beneficiaries of the export trade incentive schemes are unable to adequately produce and export their products due to the slow-down of the international market; although the Proclamation provides that beneficiaries are required to utilize raw materials imported into the country through the schemes for production purposes and avail the products to the international market within One year or an additional One-year period allowed by the Customs Commission;
+WHEREAS, it is believed that beneficiaries who are unable to produce and export their products within the period prescribed by the Proclamation for sufficient reasons, shall be granted extension of time by the Customs Commission until the time the problem that caused delay in the production and export of the product is eliminated;
+NOW THEREFORE, in accordance with Article 55 Sub-Article (1) and (11) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows.
