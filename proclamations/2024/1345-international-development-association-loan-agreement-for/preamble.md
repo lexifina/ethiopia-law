@@ -1,0 +1,5 @@
+# Preamble
+PROCLAMATION No. 1345/2024
+A PROCLAMATION TO RATIFY THE LOAN AGREEMENT BETWEEN THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA AND THE INTERNATIONAL DEVELOPMENT ASSOCIATION
+WHEREAS, the Loan Agreement, between the Federal Democratic Republic of Ethiopia and the International Development Association stipulating that the International Development Association shall provide to the Federal Democratic Republic of Ethiopia a Loan an amount equivalent to Three Hundred and Eighty Million Two Hundred Thousand Special Drawing Rights (SDR 380,200,000) for financing First Sustainable and Inclusive Growth Development Policy Financing Program, was signed in Addis Ababa on 30th day of July, 2024;
+WHEREAS, the House of Peoples' Representatives of the Federal Republic of Ethiopia has ratified said Loan Agreement at its 1st Extra Ordinary Session held on the 31th day of July 2024; NOW, THERFORE, in accordance with Article 55 Sub-Articles (1) and (12) of the Constitution, it is hereby proclaimed as follows.
