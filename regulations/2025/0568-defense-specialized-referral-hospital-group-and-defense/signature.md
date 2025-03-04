@@ -1,0 +1,5 @@
+Done at Addis Ababa on this 4th day of
+March /2025.
+ABIY AHMED (Dr.)
+PRIME MINISTER OF THE FEDERAL
+DEMOCRATIC REPUBLIC OF ETHIOPIA
