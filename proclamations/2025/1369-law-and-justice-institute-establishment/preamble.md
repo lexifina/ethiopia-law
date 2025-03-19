@@ -1,0 +1,9 @@
+# Preamble
+PROCLAMATION No 1369/2025
+A PROCLAMATION TO PROVIDE FOR THE RE-ESTABLSIHEMENT OF THE F.D.R. E. LAW AND JUSTICE INSTITUTE
+WHEREAS, it is found necessary to enable the Federal Law and Justice Institute to carry out its activities independently and impartially and deliver quality and efficient legal research as well as training services, by making it accountable to the judiciary, as it delivers services for the judiciary and other justice sector organs;
+WHEREAS, it is found highly necessary for effectiveness of the justice system to produce judicial and justice organs' professionals with knowledge, skill, attitude as well as ethics by establishing an institution of law and justice, accountable to the judiciary, being equipped with modern technology, human resource and system of structure that enables to properly carry out its activities;
+WHEREAS, it is found necessary to carry out researches, with a view to harmonize laws with contemporary development level of the world and the country as well as international treaties ratified by our country and to make efficient, effective and accessible the judiciary, justice organs and other entities having a relationship with law and justice activity;
+WHEREAS, it is found necessary to establish an institution with sufficient human resource and appropriate working system and structure capable to gather and organize reliable and comprehensive law and justice data indicating whether the justice sector of the country is effectively achieving the mission assigned to it;
+WHEREAS, it is necessary to put in place a system that enables coordinating the judiciary, justice organs and law schools as well as directing and executing in coordinated manner the reform works implemented in the justice system and law schools;
+NOW THERE FORE, in accordance with Article 55 Sub-Article (1) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows.
