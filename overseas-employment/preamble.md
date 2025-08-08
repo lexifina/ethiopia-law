@@ -1,0 +1,10 @@
+# Preamble
+Proclamation Number 1389/2025
+WHEREAS, notwithstanding the Government's commitment to creating a favorable domestic condition for promoting employment opportunities, it has been deemed imperative to protect the rights, safety and dignity of Ethiopians seeking overseas employment, commensurate with their qualifications and abilities, and to facilitate their rightful benefit therefrom;
+WHEREAS, it is believed that concluding labor-market-driven bilateral agreements, memorandum of understanding and other relevant agreements with receiving countries and legal organizations strengthens legal pathways for overseas employment and serves as a vital instrument in the prevention and suppression of trafficking in persons and the smuggling of persons;
+WHEREAS, it has become essential to define the role of the private sector and other pertinent entities involved in overseas employment services, and to enhance the Government's follow-up and monitoring of overseas employment services;
+WHEREAS, for the purpose of ensuring efficient and accessible overseas employment services for citizens and mitigating unlawful overseas employment, a technology-oriented system has been established; and it is now imperative to codify it into law;
+WHEREAS, it has become necessary to enact legal regime that facilitates the overseas employment of skilled, semi-skilled and experienced-based qualification through a transparent system, thereby protecting their rights, dignity and interest, while enhancing the country's competitiveness in overseas employment;
+WHEREAS, it has become essential to establish a legal framework governing overseas employment that complies with international treaties Ethiopia has ratified;
+WHEREAS, because the pre-existing overseas employment laws could not fully realize the objectives of the sector, it has become necessary to replace them with a new legal framework;
+NOW, THEREFORE, in accordance with Article 55(1) of the Constitution of the Federal Democratic Republic of Ethiopia, it is hereby proclaimed as follows.
