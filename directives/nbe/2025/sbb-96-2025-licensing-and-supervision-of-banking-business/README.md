@@ -1,0 +1,7 @@
+# SBB/96/2025 – LICENSING AND SUPERVISION OF BANKING BUSINESS FOREIGN EXCHANGE EXPOSURE LIMITS OF BANKS DIRECTIVE
+
+National Bank of Ethiopia Directive No. SBB/96/2025 · in force from 2025-11-10 · <https://nbe.gov.et/wp-content/uploads/2025/11/SBB962025-LICENSING-AND-SUPERVISION-OF-BANKING-BUSINESS-FOREIGN-EXCHANGE-EXPOSURE-LIMITS-OF-BANKS-DIRECTIVE-.pdf>
+
+| Provision | File |
+| --- | --- |
+| text | [text.md](text.md) |
