@@ -1,0 +1,4 @@
+# Preamble
+REGULATION No. 580/2025
+REGULATION ISSUED TO AMEND THE COUNCIL OF MINISTERS REGULATION TO ENFORCE THE PROCLAMATION FOR THE RE-ESTABLISHMENT OF THE INFORMATION NETWORK SECURITY AGENCY
+This Regulation is issued pursuant to Article 11 Sub-Article (1) of Proclamation No. 808/2013, which re-established the Information Network Security Agency.
