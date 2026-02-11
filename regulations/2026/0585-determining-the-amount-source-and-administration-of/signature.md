@@ -1,0 +1,6 @@
+Done in Addis Abeba , on this 11th day of
+February , 2026
+ABIY AHMED (Dr.)
+PRIME MINISTER OF
+THE FEDERAL DEMOCRATIC
+REPUBLIC OF ETHIOPIA
