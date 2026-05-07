@@ -1,0 +1,7 @@
+# Preamble
+PROCLAMATION No. 1400/2026
+PLANT PROTECTION AND QUARANTINE PROCLAMATION
+WHEREAS, it is important to enhance production and productivity by carrying out standard plant pest surveys and surveillance, data collection, and analysis, and establishing an early warning system in collaboration with relevant stakeholders for implementation of modern prevention and control technology to reduce the economic, social, and environmental damage caused by pests;
+WHEREAS, it is required to establish a strong and effective Plant quarantine legislative system in the country to implement the International Plant Protection Convention to which the country is a contracting party to regulate the import and export of plants, plant products, and other regulated articles, restrict the entry and spread of pests without a serious negative effect on the movement of plants, plant products, and other regulated articles in international trade; and
+WHEREAS, the Plant Protection Decree No. 56/1963 is not aligned with the standards established by the International Plant Protection Convention to carry out plant protection and quarantine activities in a contemporary manner; and whereas, the existing system does not follow an Integrated Pest Management and control approach; WHEREAS, it has become necessary to establish a modern system to mitigate the economic, social, and environmental damage caused by pests;
+NOW, THEREFORE, in accordance with Article 55 Sub Article (1) of the Constitution of the Federal Democratic Republic of Ethiopia it is hereby proclaimed as follows:
