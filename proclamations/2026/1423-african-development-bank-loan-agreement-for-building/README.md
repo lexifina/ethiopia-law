@@ -1,0 +1,12 @@
+# African Development Bank Loan Agreement for Building Climate Resilience and Livelihood Programme (BREFOL) in the Horn of Africa Ratification Proclamation No. 1423/2026
+
+African Development Bank Loan Agreement for Building Climate Resilience and Livelihood Programme (BREFOL) in the Horn of Africa Ratification · 1 versions, from 2026-08-04 (latest in force: 2026-08-04) · <https://www.metaappz.com/pdf/ethiopian_laws/federal/2026/pr_1423_2026.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Article 1 | [art-001.md](art-001.md) | 0 |  |
+| Article 2 | [art-002.md](art-002.md) | 0 |  |
+| Article 3 | [art-003.md](art-003.md) | 0 |  |
+| Article 4 | [art-004.md](art-004.md) | 0 |  |
+| Preamble | [preamble.md](preamble.md) | 0 |  |
+| Signature | [signature.md](signature.md) | 0 |  |
