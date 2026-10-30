@@ -79,6 +79,12 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Civil Aviation Proclamation No. 616/2008: Federal Negarit Gazette, 15th Year No. 23, Addis Ababa, 12 February 2009 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_616_2008.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
 | Urban Planning Proclamation No. 574/2008: Federal Negarit Gazette, 14th Year No. 29, Addis Ababa, 16 May 2008 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_574_2008.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
 | Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: Federal Negarit Gazette, 17th Year No. 16, Addis Ababa, 11 February 2011 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_699_2010.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Legal Metrology Proclamation No. 1344/2024: Federal Negarit Gazette, 30th Year No. 63 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1344_2024.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Animal Health and Welfare Proclamation No. 1376/2025: Federal Negarit Gazette, 31st Year No. 63 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1376_2025.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Disclosure and Registration of Assets Proclamation No. 668/2010: Federal Negarit Gazette, 16th Year No. 18 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_668_2010.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Vehicles Identification, Inspection and Registration Proclamation No. 681/2010: Federal Negarit Gazette, 16th Year No. 46 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_681_2010.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Social Health Insurance Proclamation No. 690/2010: Federal Negarit Gazette, 16th Year No. 50 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_690_2010.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Technical and Vocational Education and Training Proclamation No. 954/2016: Federal Negarit Gazette, 22nd Year No. 78 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_954_2016.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -159,20 +165,26 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `civil-aviation` | Civil Aviation Proclamation No. 616/2008 | 1 | 2009-02-12 to 2009-02-12 |
 | `urban-planning` | Urban Planning Proclamation No. 574/2008 | 1 | 2008-05-16 to 2008-05-16 |
 | `protection-of-witnesses-and-whistleblowers-of-cr` | Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010 | 1 | 2011-02-11 to 2011-02-11 |
+| `legal-metrology` | Legal Metrology Proclamation No. 1344/2024 | 1 | 2024-09-10 to 2024-09-10 |
+| `animal-health-and-welfare` | Animal Health and Welfare Proclamation No. 1376/2025 | 1 | 2025-08-12 to 2025-08-12 |
+| `disclosure-and-registration-of-assets` | Disclosure and Registration of Assets Proclamation No. 668/2010 | 1 | 2010-04-12 to 2010-04-12 |
+| `vehicles-identification-inspection-and-registration` | Vehicles Identification, Inspection and Registration Proclamation No. 681/2010 | 1 | 2010-08-11 to 2010-08-11 |
+| `social-health-insurance` | Social Health Insurance Proclamation No. 690/2010 | 1 | 2011-08-19 to 2011-08-19 |
+| `technical-and-vocational-education-and-training` | Technical and Vocational Education and Training Proclamation No. 954/2016 | 1 | 2016-05-27 to 2016-05-27 |
 
-The build made 73 commits:
+The build made 79 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 73 | first version of an act |
+| 79 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `future`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 73 laws in the record.
-- 146 tags.
+- 79 laws in the record.
+- 152 tags.
 
 ## Dates
 
@@ -184,7 +196,7 @@ When a law gives no date of its own, the default rule applies: Proclamation No. 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `94549c0a4e64f5c51f5b039233bbd768d24459bb29c27c0a5ad9ed9b9e0ad4a1` (5251565 bytes).
+- Corpus: sha256 `340aa73a28da70897d0bef5093b53f6f0dc8009c69e4c50204593f18f19b9af4` (5480444 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -192,7 +204,7 @@ When a law gives no date of its own, the default rule applies: Proclamation No. 
 
 Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 78 history commits and 152 tags (history tip `bfac39f43f6b6fd20a7e6b2518ee233e929a1784`).
 
 ## Decisions made by hand
 
@@ -354,6 +366,23 @@ No second build of this corpus has been compared yet.
 - Urban Planning Proclamation No. 574/2008: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
 - Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: in force 2011-02-11. Article 33 (Effective Date): "This Proclamation shall enter into force on the date of its publication in the Federal Negarit Gazeta."; the issue is dated 2011-02-11.
 - Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Legal Metrology Proclamation No. 1344/2024: in force 2024-09-10. Article 23 (Effective Date): "This Proclamation shall enter into force on the date of its publication in the Federal Negarit Gazette."; the issue is dated 2024-09-10.
+- Legal Metrology Proclamation No. 1344/2024: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Animal Health and Welfare Proclamation No. 1376/2025: in force 2025-08-12. Article 43 (Effective Date): "This Proclamation shall come into effect on the date of its publication in the Federal Negarit Gazettee."; the issue is dated 2025-08-12.
+- Animal Health and Welfare Proclamation No. 1376/2025: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Animal Health and Welfare Proclamation No. 1376/2025: Article 30 is printed as '3o.'; it is keyed art-030 and the printed identifier is retained in its heading.
+- Disclosure and Registration of Assets Proclamation No. 668/2010: in force 2010-04-12. Article 25 (Effective Date): "This Proclamation shall enter into force up on the date of publication in the Federal Negarit Gazeta."; the issue is dated 2010-04-12.
+- Disclosure and Registration of Assets Proclamation No. 668/2010: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Disclosure and Registration of Assets Proclamation No. 668/2010: article identifiers separately encoded in the Gazette are used only to divide the text; the printed English heading words are preserved.
+- Vehicles Identification, Inspection and Registration Proclamation No. 681/2010: in force 2010-08-11. Article 52 (Effective Date): "This Proclamation shall enter into force up on the date of publication in the Federal Negarit Gazeta."; the issue is dated 2010-08-11.
+- Vehicles Identification, Inspection and Registration Proclamation No. 681/2010: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Vehicles Identification, Inspection and Registration Proclamation No. 681/2010: article identifiers separately encoded in the Gazette are used only to divide the text; the printed English heading words are preserved.
+- Social Health Insurance Proclamation No. 690/2010: in force 2011-08-19. Article 12 (Effective Date): "This Proclamation shall come into force a year after its publication in the Federal Negarit Gazeta.."; one year after the Gazette issue date 19 August 2010 is 19 August 2011.
+- Social Health Insurance Proclamation No. 690/2010: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Social Health Insurance Proclamation No. 690/2010: article identifiers separately encoded in the Gazette are used only to divide the text; the printed English heading words are preserved.
+- Technical and Vocational Education and Training Proclamation No. 954/2016: in force 2016-05-27. Article 46 (Effective Date): "This Proclamation shall enter into force on the date of its publication in the Federal Negarit Gazette."; the issue is dated 2016-05-27.
+- Technical and Vocational Education and Training Proclamation No. 954/2016: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Technical and Vocational Education and Training Proclamation No. 954/2016: article identifiers separately encoded in the Gazette are used only to divide the text; the printed English heading words are preserved.
 
 ## What AI did and did not do
 
@@ -437,3 +466,9 @@ Model use at data-build time:
 - none: every unit is extracted by code from the PDF text layer; no OCR.
 - none: every unit is extracted by code from the PDF text layer; no OCR.
 - none: every unit is extracted by code from the PDF text layer; no OCR.
+- GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
+- GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
+- GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
+- GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
+- GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
+- GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.

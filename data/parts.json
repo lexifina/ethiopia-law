@@ -431,6 +431,42 @@
     "protection-of-witnesses-and-whistleblowers-of-cr"
    ],
    "sha256": "518b902abdf7bc74268d1e9b76bd8872669ff4b03ec7e0f0b5796f05c6df9dfa"
+  },
+  "e1-q27-pr-1344-2024.json": {
+   "acts": [
+    "legal-metrology"
+   ],
+   "sha256": "3dc9994d2cd85ff895a0cb5616a572652f7cc9559a5aebfe2f88d471114fbdc4"
+  },
+  "e1-q27-pr-1376-2025.json": {
+   "acts": [
+    "animal-health-and-welfare"
+   ],
+   "sha256": "040d45ef57b83e4a101b0021d7e5aad5fe70554ca6768cce15489a7e716bc059"
+  },
+  "e1-q27-pr-668-2010.json": {
+   "acts": [
+    "disclosure-and-registration-of-assets"
+   ],
+   "sha256": "64e0ca9993c93d1c6da4234741b3a8670a5109235f1c050c516611b2c169888b"
+  },
+  "e1-q27-pr-681-2010.json": {
+   "acts": [
+    "vehicles-identification-inspection-and-registration"
+   ],
+   "sha256": "82966ff865a83cf41b968dccf9ce23ab719c2754fa1dbba7f340582d798a2a1e"
+  },
+  "e1-q27-pr-690-2010.json": {
+   "acts": [
+    "social-health-insurance"
+   ],
+   "sha256": "bbe6cfb703d5d6750ca648875f8c6c2f848b45a85ee5733759219e32b96c6806"
+  },
+  "e1-q27-pr-954-2016.json": {
+   "acts": [
+    "technical-and-vocational-education-and-training"
+   ],
+   "sha256": "883d86178092cd931ff9f56a0381022cf449790f3001ce1f8e543a7bc35c00fd"
   }
  },
  "schema": 1

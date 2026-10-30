@@ -1022,6 +1022,90 @@
      "sha256": "c45c8e36e66deef0cc6e3069b0cfbf0d7dd0ff151a2076a336f0da025ccce103"
     }
    ]
+  },
+  {
+   "slug": "legal-metrology",
+   "short": "Legal Metrology Proc.",
+   "title": "Legal Metrology Proclamation No. 1344/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1344_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 25,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1344_2024.pdf",
+     "sha256": "3ef68fbb863f711f6c3afa2675b9b3c57efc5627c4fbc52e55f93a07ed0d05f3"
+    }
+   ]
+  },
+  {
+   "slug": "animal-health-and-welfare",
+   "short": "Animal Health and Welfare Proc.",
+   "title": "Animal Health and Welfare Proclamation No. 1376/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1376_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 45,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1376_2025.pdf",
+     "sha256": "6b08e5fa99a8c02d71023333bbc1602c0aba5b7fec7acc0493c81fcc29bc4ff9"
+    }
+   ]
+  },
+  {
+   "slug": "disclosure-and-registration-of-assets",
+   "short": "Disclosure and Registration of Assets Proc.",
+   "title": "Disclosure and Registration of Assets Proclamation No. 668/2010",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_668_2010.pdf",
+   "versions": [
+    {
+     "from": "2010-04-12",
+     "units": 27,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_668_2010.pdf",
+     "sha256": "8310d571b7bc64b1c8a73dfbdb816838ceb43ea2eba3ff09b21ac7393854d8e7"
+    }
+   ]
+  },
+  {
+   "slug": "vehicles-identification-inspection-and-registration",
+   "short": "Vehicles Identification, Inspection and Registration Proc.",
+   "title": "Vehicles Identification, Inspection and Registration Proclamation No. 681/2010",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_681_2010.pdf",
+   "versions": [
+    {
+     "from": "2010-08-11",
+     "units": 54,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_681_2010.pdf",
+     "sha256": "daf87f28e09f1886005802c2a96f399000830d23693f3012e5931fcbe6e95bbb"
+    }
+   ]
+  },
+  {
+   "slug": "social-health-insurance",
+   "short": "Social Health Insurance Proc.",
+   "title": "Social Health Insurance Proclamation No. 690/2010",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_690_2010.pdf",
+   "versions": [
+    {
+     "from": "2011-08-19",
+     "units": 14,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_690_2010.pdf",
+     "sha256": "285d1683bacc8da274f4d2613d52f1c4e59def4e8a3f557d63b275ae5acab07c"
+    }
+   ]
+  },
+  {
+   "slug": "technical-and-vocational-education-and-training",
+   "short": "Technical and Vocational Education and Training Proc.",
+   "title": "Technical and Vocational Education and Training Proclamation No. 954/2016",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_954_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 48,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_954_2016.pdf",
+     "sha256": "1f84e841baeb7d448468d76da9edddda87ae6dcbc8b777829a19dde0c00fbb28"
+    }
+   ]
   }
  ]
 }
