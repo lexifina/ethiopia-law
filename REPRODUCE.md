@@ -78,6 +78,7 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Biosafety Proclamation No. 655/2009: Federal Negarit Gazette, 15th Year No. 63, Addis Ababa, 9 September 2009 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2009/pr_655_2009.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
 | Civil Aviation Proclamation No. 616/2008: Federal Negarit Gazette, 15th Year No. 23, Addis Ababa, 12 February 2009 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_616_2008.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
 | Urban Planning Proclamation No. 574/2008: Federal Negarit Gazette, 14th Year No. 29, Addis Ababa, 16 May 2008 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_574_2008.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
+| Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: Federal Negarit Gazette, 17th Year No. 16, Addis Ababa, 11 February 2011 | <https://www.metaappz.com/pdf/ethiopian_laws/federal/2010/pr_699_2010.pdf> | 2026-10-30 | Official legislative text: not protected by copyright in Ethiopia (Proclamation No. 410/2004, Art. 5(b)). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -157,20 +158,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `biosafety` | Biosafety Proclamation No. 655/2009 | 1 | 2009-09-09 to 2009-09-09 |
 | `civil-aviation` | Civil Aviation Proclamation No. 616/2008 | 1 | 2009-02-12 to 2009-02-12 |
 | `urban-planning` | Urban Planning Proclamation No. 574/2008 | 1 | 2008-05-16 to 2008-05-16 |
+| `protection-of-witnesses-and-whistleblowers-of-cr` | Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010 | 1 | 2011-02-11 to 2011-02-11 |
 
-The build made 72 commits:
+The build made 73 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 72 | first version of an act |
+| 73 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `future`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 72 laws in the record.
-- 144 tags.
+- 73 laws in the record.
+- 146 tags.
 
 ## Dates
 
@@ -182,15 +184,15 @@ When a law gives no date of its own, the default rule applies: Proclamation No. 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f0b9e34f1e142c59078df30b4d76f4fbb1cd86b1086536a991f80a4d99a63984` (5216301 bytes).
+- Corpus: sha256 `94549c0a4e64f5c51f5b039233bbd768d24459bb29c27c0a5ad9ed9b9e0ad4a1` (5251565 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `5d0eabdf207e7a114e8dbc8112ed3b044537b711`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-72 versions of 72 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 72 history commits and 146 tags (history tip `e9c69b01608fa7089553ee3281829b0c775999b9`).
 
 ## Decisions made by hand
 
@@ -350,6 +352,8 @@ No second build of this corpus has been compared yet.
 - Civil Aviation Proclamation No. 616/2008: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
 - Urban Planning Proclamation No. 574/2008: in force 2008-05-16. Article 61 (Effective Date): "This Proclamation shall enter into force up on the date of publication in the Federal Negarit Gazeta."; the issue is dated 2008-05-16.
 - Urban Planning Proclamation No. 574/2008: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
+- Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: in force 2011-02-11. Article 33 (Effective Date): "This Proclamation shall enter into force on the date of its publication in the Federal Negarit Gazeta."; the issue is dated 2011-02-11.
+- Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: the English column of the bilingual Gazette issue only (Amharic column, running heads and page numbers left out); PART/CHAPTER/SECTION headings are not units; each article file is 'Article N: heading' as printed, then one paragraph or item per line; the closing 'Done at' formula and signature are the unit signature. Ethiopic punctuation typed into the English text (wordspace, comma, full stop, semicolon) is read as its Latin form (the wordspace, used before lists and in ':-', as a colon); apostrophes and quotation marks typed as `, ´, „ or ‟ are written as ' and curly double quotes as straight ones; glyphs under 3 pt high, which do not print, are left out; a corrigendum or another text printed after the signature in the same issue is left out.
 
 ## What AI did and did not do
 
@@ -361,6 +365,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+- none: every unit is extracted by code from the PDF text layer; no OCR.
 - none: every unit is extracted by code from the PDF text layer; no OCR.
 - none: every unit is extracted by code from the PDF text layer; no OCR.
 - none: every unit is extracted by code from the PDF text layer; no OCR.
