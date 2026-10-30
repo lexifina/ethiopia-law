@@ -192,7 +192,7 @@ When a law gives no date of its own, the default rule applies: Proclamation No. 
 
 Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 72 history commits and 146 tags (history tip `e9c69b01608fa7089553ee3281829b0c775999b9`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
