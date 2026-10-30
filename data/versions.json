@@ -1,0 +1,1013 @@
+{
+ "country": "ET",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "FDRE Const.",
+   "title": "Constitution of the Federal Democratic Republic of Ethiopia (1995)",
+   "url": "https://www.derechos.org/intlaw/doc/eth2.html",
+   "versions": [
+    {
+     "from": "1995-08-21",
+     "units": 107,
+     "source_url": "https://www.derechos.org/intlaw/doc/eth2.html",
+     "sha256": "db7de2025f41279baa72a288a2bca99355db9ad909eb45ce226ca47f5e07238f"
+    }
+   ]
+  },
+  {
+   "slug": "labour",
+   "short": "Labour Proc.",
+   "title": "Labour Proclamation No. 1156/2019",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1156_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-09-05",
+     "units": 195,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1156_2019.pdf",
+     "sha256": "bd857e43d38e843cdb3865d934004f2281d7547d5ccae02d54c8d3a6e8df173b"
+    }
+   ]
+  },
+  {
+   "slug": "commercial-code",
+   "short": "Com. C.",
+   "title": "Commercial Code of the Federal Democratic Republic of Ethiopia (Proclamation No. 1243/2021)",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1243_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 834,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1243_2021.pdf",
+     "sha256": "ceac80e47f1eef20b2792e3849d3f7d94c5e1da1e126a6e477a4659264163650"
+    }
+   ]
+  },
+  {
+   "slug": "federal-courts",
+   "short": "Fed. Courts Proc.",
+   "title": "Federal Courts Proclamation No. 1234/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1234_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 60,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1234_2021.pdf",
+     "sha256": "71c94db5b65b993752a6d48ac3657154f3f213cdfe525ea201d4f7404f9e3320"
+    }
+   ]
+  },
+  {
+   "slug": "federal-civil-servants",
+   "short": "Fed. Civil Servants Proc.",
+   "title": "Federal Civil Servants Proclamation No. 1353/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1353_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 162,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1353_2025.pdf",
+     "sha256": "16dfec25f6ebdaa7948829f66a485f5122a459e6413136c76247a5e1ed788d40"
+    }
+   ]
+  },
+  {
+   "slug": "civil-family-registration",
+   "short": "Civil and Family Registration Proc.",
+   "title": "Civil and Family Registration Proclamation No. 1370/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1370_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 78,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1370_2025.pdf",
+     "sha256": "b57dbf28f98899f424b61478a4d12820c18d3a4582525d5faa1201078567ed3c"
+    }
+   ]
+  },
+  {
+   "slug": "personal-data-protection",
+   "short": "Personal Data Protection Proc.",
+   "title": "Personal Data Protection Proclamation No. 1321/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1321_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-24",
+     "units": 72,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1321_2024.pdf",
+     "sha256": "b0c918d0cbe51b7daa5d1c698d95b862bf76907e0cff17718b786bba3697e294"
+    }
+   ]
+  },
+  {
+   "slug": "rural-land",
+   "short": "Rural Land Administration and Use Proc.",
+   "title": "Rural Land Administration and Use Proclamation No. 1324/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1324_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-08-14",
+     "units": 70,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1324_2024.pdf",
+     "sha256": "3d3fb4d8af380ba63b2d7d8cb895939f56591750dd43b9c3aaacde3af92b550f"
+    }
+   ]
+  },
+  {
+   "slug": "urban-landholding-registration",
+   "short": "Urban Landholding and Land-related Property Registration Proc.",
+   "title": "Urban Landholding and Land-related Property Registration Proclamation No. 1381/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1381_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 64,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1381_2025.pdf",
+     "sha256": "7e1607865cbff6216b78a82ebfcbc3153a14c2feb251a5c68b96ae82495a3e2d"
+    }
+   ]
+  },
+  {
+   "slug": "environmental-social-impact-assessment",
+   "short": "Environmental and Social Impact Assessment Proc.",
+   "title": "Environmental and Social Impact Assessment Proclamation No. 1371/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1371_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 27,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1371_2025.pdf",
+     "sha256": "ccf25eac8e51a0467f29752e31b769990f7b45f4d078bfbc2577c296ca01c508"
+    }
+   ]
+  },
+  {
+   "slug": "public-procurement",
+   "short": "Federal Public Procurement and Property Administration Proc.",
+   "title": "Federal Public Procurement and Property Administration Proclamation No. 1333/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1333_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 93,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1333_2024.pdf",
+     "sha256": "b928f39bdb960ea8841ab13e7fc4c471a7f44f89eb09655700a29d4c87c1440a"
+    }
+   ]
+  },
+  {
+   "slug": "government-owned-enterprises",
+   "short": "Federal Government-Owned Enterprises Proc.",
+   "title": "Federal Government-Owned Enterprises Proclamation No. 1314/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1314_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 50,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1314_2024.pdf",
+     "sha256": "c8aaab45e0fa7b5bd29e01fef78bd369ac5e4d51eef3c4ba58fe89df4338f352"
+    }
+   ]
+  },
+  {
+   "slug": "advocacy",
+   "short": "Federal Advocacy Service Licensing and Administration Proc.",
+   "title": "Federal Advocacy Service Licensing and Administration Proclamation No. 1249/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1249_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "units": 103,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1249_2021.pdf",
+     "sha256": "23a5bfb0dad64c14d1822ecf3b50b9628115cf33d86613b31cf4f81e394c7946"
+    }
+   ]
+  },
+  {
+   "slug": "media",
+   "short": "Media Proc.",
+   "title": "Media Proclamation No. 1238/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1238_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-05",
+     "units": 94,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1238_2021.pdf",
+     "sha256": "6cc0d8ac00cf1c063040fd70800228c4a06e5ef8cfbdabc4f89e0d6fa6d9ab97"
+    }
+   ]
+  },
+  {
+   "slug": "excise-tax",
+   "short": "Excise Tax Proc.",
+   "title": "Excise Tax Proclamation No. 1186/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1186_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-02-13",
+     "units": 47,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1186_2020.pdf",
+     "sha256": "d189dc9195c4a172e844c9038dffff682efafe906621943297bd5c0da97da722"
+    }
+   ]
+  },
+  {
+   "slug": "hate-speech",
+   "short": "Hate Speech and Disinformation Prevention and Suppression Proc.",
+   "title": "Hate Speech and Disinformation Prevention and Suppression Proclamation No. 1185/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1185_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-23",
+     "units": 12,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1185_2020.pdf",
+     "sha256": "e23eac0ef6ddf8b97f1fc94f2197bda428bc6404887de24efb4ed8aec8e17239"
+    }
+   ]
+  },
+  {
+   "slug": "electoral-code",
+   "short": "Ethiopian Electoral, Political Parties Registration and Election's Code of Conduct Proc.",
+   "title": "Ethiopian Electoral, Political Parties Registration and Election's Code of Conduct Proclamation No. 1162/2019",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1162_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-08-24",
+     "units": 166,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1162_2019.pdf",
+     "sha256": "9966086bfb8d3e9395c9d65ed24ab66a9264c85b18d6f44bbb988eb7d8498e98"
+    }
+   ]
+  },
+  {
+   "slug": "expropriation",
+   "short": "Expropriation of Land Holdings for Public Purposes, Payments of Compensation and Resettlement Proc.",
+   "title": "Expropriation of Land Holdings for Public Purposes, Payments of Compensation and Resettlement Proclamation No. 1161/2019",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1161_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-09-23",
+     "units": 31,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1161_2019.pdf",
+     "sha256": "40a9abf766a568a4b3a15e62c54d313086306f3d2bd69b6b74f13983c8aa78f6"
+    }
+   ]
+  },
+  {
+   "slug": "refugees",
+   "short": "Refugees Proc.",
+   "title": "Refugees Proclamation No. 1110/2019",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1110_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 49,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1110_2019.pdf",
+     "sha256": "ca6ae4f844bdf9542147fa0f22797eceab6101ae5b2da6c060372e71e367a6df"
+    }
+   ]
+  },
+  {
+   "slug": "computer-crime",
+   "short": "Computer Crime Proc.",
+   "title": "Computer Crime Proclamation No. 958/2016",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_958_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 48,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_958_2016.pdf",
+     "sha256": "c1d66828e6d123d2cd8d81ca710b48182d4d53c5b3e9e67f8bc9a5fec07d42cf"
+    }
+   ]
+  },
+  {
+   "slug": "cooperative-societies",
+   "short": "Cooperative Societies Proc.",
+   "title": "Cooperative Societies Proclamation No. 985/2016",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_985_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-12-23",
+     "units": 79,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_985_2016.pdf",
+     "sha256": "49bf03e8c7cca71b9d2e0663a84915f3ef70af81ecee8325b76d0d4b870ff299"
+    }
+   ]
+  },
+  {
+   "slug": "urban-lands-lease",
+   "short": "Urban Lands Lease Holding Proc.",
+   "title": "Urban Lands Lease Holding Proclamation No. 721/2011",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2011/pr_721_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-11-28",
+     "units": 40,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2011/pr_721_2011.pdf",
+     "sha256": "ac0632e25f6c4a5644a3c93e28215da9fa3cec032619727f479dce2cdd2d1ac0"
+    }
+   ]
+  },
+  {
+   "slug": "terrorism",
+   "short": "Prevention and Suppression of Terrorism Crimes Proc.",
+   "title": "Prevention and Suppression of Terrorism Crimes Proclamation No. 1176/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1176_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 51,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1176_2020.pdf",
+     "sha256": "84988169f3267d1505dedf5f2b354d3f0d664d17fb8f397c27114c40b42e963c"
+    }
+   ]
+  },
+  {
+   "slug": "trafficking",
+   "short": "Prevention and Suppression of Trafficking in Persons and Smuggling of Persons Proc.",
+   "title": "Prevention and Suppression of Trafficking in Persons and Smuggling of Persons Proclamation No. 1178/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1178_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 49,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1178_2020.pdf",
+     "sha256": "102fc0aaee0a19369c798cc57136c6f377f72e27ed56f2f256a08d9e5c79368a"
+    }
+   ]
+  },
+  {
+   "slug": "civil-society-organizations",
+   "short": "Organizations of Civil Societies Proc.",
+   "title": "Organizations of Civil Societies Proclamation No. 1113/2019",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1113_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-03-12",
+     "units": 92,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1113_2019.pdf",
+     "sha256": "47915bea3a57d1fc041b5a8e3a8647d2a8344e4b41a2f457fa2ed99f3c94c6a7"
+    }
+   ]
+  },
+  {
+   "slug": "administrative-procedure",
+   "short": "Federal Administrative Procedure Proc.",
+   "title": "Federal Administrative Procedure Proclamation No. 1183/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1183_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-04-07",
+     "units": 64,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1183_2020.pdf",
+     "sha256": "89e9451a3b345d0c444fb485cef9d394cfaf55fd47f43d1a9886a55f78515dbb"
+    }
+   ]
+  },
+  {
+   "slug": "capital-market",
+   "short": "Capital Market Proc.",
+   "title": "Capital Market Proclamation No. 1248/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1248_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-07-23",
+     "units": 115,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1248_2021.pdf",
+     "sha256": "61c6cb29149b46f8ab32f8a95f1a73462c4934f6d6f5e2256d44402cb8a768b9"
+    }
+   ]
+  },
+  {
+   "slug": "special-economic-zone",
+   "short": "Special Economic Zone Proc.",
+   "title": "Special Economic Zone Proclamation No. 1322/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1322_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 96,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1322_2024.pdf",
+     "sha256": "4b444653887d6b9d3cc21e6c212501e606729580d58d5f4a5033eb6ac9d92b7e"
+    }
+   ]
+  },
+  {
+   "slug": "property-tax",
+   "short": "Property Tax Proc.",
+   "title": "Property Tax Proclamation No. 1365/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1365_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 45,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1365_2025.pdf",
+     "sha256": "d1f8ba843d59a67b8f8a8015930305833974f48a1491f1d57ab78ff29758cfcc"
+    }
+   ]
+  },
+  {
+   "slug": "real-estate",
+   "short": "Real Estate Development and Real Property Marketing and Valuation Proc.",
+   "title": "Real Estate Development and Real Property Marketing and Valuation Proclamation No. 1357/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1357_2024.pdf",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 38,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1357_2024.pdf",
+     "sha256": "2a3810ca66526c53ef96ac46f76061e1bbbbcb20bb56c3f762e67e6fe39b5809"
+    }
+   ]
+  },
+  {
+   "slug": "digital-identification",
+   "short": "Ethiopian Digital Identification Proc.",
+   "title": "Ethiopian Digital Identification Proclamation No. 1284/2023",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1284_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 28,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1284_2023.pdf",
+     "sha256": "9649d16ed331c63a501497690057a3718700c2498812e6abb1b998b07397fd73"
+    }
+   ]
+  },
+  {
+   "slug": "private-employees-pension",
+   "short": "Private Organization Employees' Pension Proc.",
+   "title": "Private Organization Employees' Pension Proclamation No. 1268/2022",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1268_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 65,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1268_2022.pdf",
+     "sha256": "ef3cbe6c9f39dccbc03960b1fbd9e5360832024afc17378202738be666765794"
+    }
+   ]
+  },
+  {
+   "slug": "public-servants-pension",
+   "short": "Public Servants' Pension Proc.",
+   "title": "Public Servants' Pension Proclamation No. 1267/2022",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1267_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-18",
+     "units": 66,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1267_2022.pdf",
+     "sha256": "d73a7c9cdeda6679e40355f516b5cb173ac263e2a6269be5056aa1bee28918ad"
+    }
+   ]
+  },
+  {
+   "slug": "electronic-signature",
+   "short": "Electronic Signature Proc.",
+   "title": "Electronic Signature Proclamation No. 1072/2018",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2018/pr_1072_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-02-16",
+     "units": 56,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2018/pr_1072_2018.pdf",
+     "sha256": "cc8c78fc3e80aa285dcae0c8a1c6a09e2d6d8a00953ae67f017f0e0f0279f1aa"
+    }
+   ]
+  },
+  {
+   "slug": "privatization",
+   "short": "Public Enterprises Privatization Proc.",
+   "title": "Public Enterprises Privatization Proclamation No. 1206/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1206_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 23,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1206_2020.pdf",
+     "sha256": "4a5006b2264dfc159db15b5ff0c4345e76dfce239fbdd753ac8d7c8aeeb6a80c"
+    }
+   ]
+  },
+  {
+   "slug": "public-private-partnership",
+   "short": "Public Private Partnership Proc.",
+   "title": "Public Private Partnership Proclamation No. 1076/2018",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2018/pr_1076_2018.pdf",
+   "versions": [
+    {
+     "from": "2018-02-22",
+     "units": 70,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2018/pr_1076_2018.pdf",
+     "sha256": "3d0010378ba5d20f659851cd83e443c0a3e6afc28072e82965dd90ce02ce23f2"
+    }
+   ]
+  },
+  {
+   "slug": "startup",
+   "short": "Startup Proc.",
+   "title": "Startup Proclamation No. 1396/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1396_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 46,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1396_2025.pdf",
+     "sha256": "59256c24287f790999528f27e643c056ccb56fa546298fa5ed974a1019bfc08f"
+    }
+   ]
+  },
+  {
+   "slug": "foreign-nationals-housing",
+   "short": "Foreign Nationals' Ownership Right of Residential House Proc.",
+   "title": "Foreign Nationals' Ownership Right of Residential House Proclamation No. 1388/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1388_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 23,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1388_2025.pdf",
+     "sha256": "e0c86f622b0fd0e7c6cd88e9d2e25e1c1474234f4802f05bac508a092b57c352"
+    }
+   ]
+  },
+  {
+   "slug": "overseas-employment",
+   "short": "Ethiopia's Overseas Employment Proc.",
+   "title": "Ethiopia's Overseas Employment Proclamation No. 1389/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1389_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-08",
+     "units": 91,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1389_2025.pdf",
+     "sha256": "eccff1d1e593fb08038254fa5d8430871b0addfd7f25972c783afb9adfee591e"
+    }
+   ]
+  },
+  {
+   "slug": "critical-infrastructure-cybersecurity",
+   "short": "Critical Infrastructure Cybersecurity Proc.",
+   "title": "Critical Infrastructure Cybersecurity Proclamation No. 1426/2026",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2026/pr_1426_2026.pdf",
+   "versions": [
+    {
+     "from": "2027-07-21",
+     "units": 30,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2026/pr_1426_2026.pdf",
+     "sha256": "d77755f642698ce4c5b1e2ad6f0d3c2ddbcee75db554d13ff595afdc9107850d"
+    }
+   ]
+  },
+  {
+   "slug": "general-education",
+   "short": "General Education Proc.",
+   "title": "General Education Proclamation No. 1368/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1368_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-04-10",
+     "units": 99,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1368_2025.pdf",
+     "sha256": "3d1e2b879e120dd9c2b4736f6ed57fcea21d20f8146861ddb4f57e21490f0881"
+    }
+   ]
+  },
+  {
+   "slug": "health-service",
+   "short": "Health Service Administration and Regulation Proc.",
+   "title": "Health Service Administration and Regulation Proclamation No. 1362/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1362_2024.pdf",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 61,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1362_2024.pdf",
+     "sha256": "1d65931fd7f3d39c0187e99180b4f57385747f332ad10ba9623a7ee07bf743f2"
+    }
+   ]
+  },
+  {
+   "slug": "road-transport",
+   "short": "Road Transport Proc.",
+   "title": "Road Transport Proclamation No. 1274/2022",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1274_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 16,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1274_2022.pdf",
+     "sha256": "08e3b8d5d19ede5b663a8c9ac27a63519467430232eda4f3ca38d75a5e1f1f39"
+    }
+   ]
+  },
+  {
+   "slug": "income-tax",
+   "short": "Fed. Income Tax Proc.",
+   "title": "Federal Income Tax Proclamation No. 979/2016",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_979_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 104,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_979_2016.pdf",
+     "sha256": "28e762854b159a25d070b121e36f2e80ad7f135e439ded6800b68c02286c2afa"
+    }
+   ]
+  },
+  {
+   "slug": "building",
+   "short": "Ethiopian Building Proc.",
+   "title": "Ethiopian Building Proclamation No. 1356/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1356_2024.pdf",
+   "versions": [
+    {
+     "from": "2025-05-07",
+     "units": 56,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1356_2024.pdf",
+     "sha256": "a52a44cd234dd07323616486470fc2b5415037be8bf2cc20cf95ef6dc7f7987e"
+    }
+   ]
+  },
+  {
+   "slug": "payment-for-ecosystem-services",
+   "short": "Payment for Ecosystem Services Proc.",
+   "title": "Payment for Ecosystem Services Proclamation No. 1401/2026",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2026/pr_1401_2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 20,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2026/pr_1401_2026.pdf",
+     "sha256": "fcd980c90b19e351478e9b0d7d02b9e7f52833a3c67b9e025ebc2c25e03dd909"
+    }
+   ]
+  },
+  {
+   "slug": "solid-waste-management-and-disposal",
+   "short": "Solid Waste Management and Disposal Proc.",
+   "title": "Solid Waste Management and Disposal Proclamation No. 1383/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1383_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 30,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1383_2025.pdf",
+     "sha256": "29613cac86bd522932cb4db205cfebc03f4d7622a0c1594da2735356a83be0bf"
+    }
+   ]
+  },
+  {
+   "slug": "riparian-buffer-zone-management",
+   "short": "Riparian Buffer Zone Management Proc.",
+   "title": "Riparian Buffer Zone Management Proclamation No. 1382/2025",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1382_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 19,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2025/pr_1382_2025.pdf",
+     "sha256": "d8c50b232adcb9fa0ebb6a251b3f11db6f4bb2122022c80c7102a0fe2335fd47"
+    }
+   ]
+  },
+  {
+   "slug": "ethiopian-standards",
+   "short": "Ethiopian Standards Proc.",
+   "title": "Ethiopian Standards Proclamation No. 1343/2024",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1343_2024.pdf",
+   "versions": [
+    {
+     "from": "2024-10-23",
+     "units": 47,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2024/pr_1343_2024.pdf",
+     "sha256": "9436dad17648a4f3f6cb2cf4997e7a4c4e926ae23b4c31955e510440f3a313fd"
+    }
+   ]
+  },
+  {
+   "slug": "information-technology-products-security-clearan",
+   "short": "Information Technology Products Security Clearance and Control Proc.",
+   "title": "Information Technology Products Security Clearance and Control Proclamation No. 1310/2023",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1310_2023.pdf",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 27,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1310_2023.pdf",
+     "sha256": "95de24a34260b5453b23ca698bf161f5231fdce9d3f856541b97e0b6533f0316"
+    }
+   ]
+  },
+  {
+   "slug": "a-proclamation-to-provide-for-autonomy-of-univer",
+   "short": "A Proc.",
+   "title": "A Proclamation to provide for Autonomy of Universities Proclamation No. 1294/2023",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1294_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 50,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1294_2023.pdf",
+     "sha256": "c0727ff1aed1c3665bd224c11bf9c63c5669e990018fd287ec9890c30a1d1d89"
+    }
+   ]
+  },
+  {
+   "slug": "agricultural-production-contract",
+   "short": "Agricultural Production Contract Proc.",
+   "title": "Agricultural Production Contract Proclamation No. 1289/2023",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1289_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 29,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1289_2023.pdf",
+     "sha256": "a8735f01867dc1487b8b84fd7d7eff49259cee8e84caf7b550a1adaa8fa9a344"
+    }
+   ]
+  },
+  {
+   "slug": "seed",
+   "short": "Seed Proc.",
+   "title": "Seed Proclamation No. 1288/2023",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1288_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 33,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1288_2023.pdf",
+     "sha256": "c6a3f66a25895225e63d4ffde6f3d1b713040cdb1508c244dcde3f6a2927455c"
+    }
+   ]
+  },
+  {
+   "slug": "defense-forces",
+   "short": "Defense Forces Proc.",
+   "title": "Defense Forces Proclamation No. 1286/2023",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1286_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 89,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2023/pr_1286_2023.pdf",
+     "sha256": "dbcfc680480c51b3b2538bf443b18f64bf3573dc019e5bb418dbb136f45f8d02"
+    }
+   ]
+  },
+  {
+   "slug": "community-based-health-insurance",
+   "short": "Community Based Health Insurance Proc.",
+   "title": "Community Based Health Insurance Proclamation No. 1273/2022",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1273_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-08-09",
+     "units": 35,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2022/pr_1273_2022.pdf",
+     "sha256": "d423a2a91e350c6d3d282d7f20ff3abb1f2d1e6e5c5dc9e0d59ec0b6bed1531c"
+    }
+   ]
+  },
+  {
+   "slug": "a-proclamation-to-define-the-powers-and-function",
+   "short": "A Proc.",
+   "title": "A Proclamation to Define the Powers and Functions of the House of Federation Proclamation No. 1261/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1261_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 87,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1261_2021.pdf",
+     "sha256": "ac79ca738fe564d8b535f4e521aefb87ff26b553f90d12431def8951903035d4"
+    }
+   ]
+  },
+  {
+   "slug": "single-audit",
+   "short": "Single Audit Proc.",
+   "title": "Single Audit Proclamation No. 1251/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1251_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 14,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1251_2021.pdf",
+     "sha256": "601e655059493fe7d51a04409cca5561d9da98bd3ff6889ea7627770e92d126b"
+    }
+   ]
+  },
+  {
+   "slug": "the-system-of-inter-governmental-relations-in-th",
+   "short": "The System of Inter-Governmental Relations in the Federal Democratic Republic of Ethiopia’s Determination Proc.",
+   "title": "The System of Inter-Governmental Relations in the Federal Democratic Republic of Ethiopia’s Determination Proclamation No. 1231/2021",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1231_2021.pdf",
+   "versions": [
+    {
+     "from": "2021-01-11",
+     "units": 36,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2021/pr_1231_2021.pdf",
+     "sha256": "fab9f74ff57fd7be0b9e459d9848bbcfec7ea0b21edc606996f3de8dc7d92d86"
+    }
+   ]
+  },
+  {
+   "slug": "the-federal-government-public-projects-administr",
+   "short": "The Federal Government Public Projects Administration and Management System Proc.",
+   "title": "The Federal Government Public Projects Administration and Management System Proclamation No. 1210/2020",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1210_2020.pdf",
+   "versions": [
+    {
+     "from": "2020-07-29",
+     "units": 30,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2020/pr_1210_2020.pdf",
+     "sha256": "02caa1e016ed6202e3f3d361f860520f40fac665b6f65c5bfbd2b6d46a235075"
+    }
+   ]
+  },
+  {
+   "slug": "transaction-of-minerals",
+   "short": "Transaction of Minerals Proc.",
+   "title": "Transaction of Minerals Proclamation No. 1144/2019",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1144_2019.pdf",
+   "versions": [
+    {
+     "from": "2019-08-15",
+     "units": 43,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1144_2019.pdf",
+     "sha256": "a84f518ddbdf046a3751a46e40068866748625729c8666ed489df40d2aa3cbe8"
+    }
+   ]
+  },
+  {
+   "slug": "plant-breeders-right",
+   "short": "Plant Breeder's Right Proc.",
+   "title": "Plant Breeder's Right Proclamation No. 1068/2017",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1068_2017.pdf",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 36,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1068_2017.pdf",
+     "sha256": "72f449d81f0be3d4a246e35b73627b6c976e7f185509d3845bf31d354d199032"
+    }
+   ]
+  },
+  {
+   "slug": "coffee-marketing-and-quality-control",
+   "short": "Coffee Marketing and Quality Control Proc.",
+   "title": "Coffee Marketing and Quality Control Proclamation No. 1051/2017",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1051_2017.pdf",
+   "versions": [
+    {
+     "from": "2017-06-05",
+     "units": 27,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1051_2017.pdf",
+     "sha256": "f5b02cd92919df6854619ea9456f8c8e102698319e9c5d7b34ee5475f9fc9736"
+    }
+   ]
+  },
+  {
+   "slug": "railway-transport-administration",
+   "short": "Railway Transport Administration Proc.",
+   "title": "Railway Transport Administration Proclamation No. 1048/2017",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1048_2017.pdf",
+   "versions": [
+    {
+     "from": "2017-07-26",
+     "units": 54,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1048_2017.pdf",
+     "sha256": "05e6ef9577639d3bc0f12d304e10bbfeced17b64bf1e80642244d5545077f465"
+    }
+   ]
+  },
+  {
+   "slug": "radiation-and-nuclear-protection",
+   "short": "Radiation and Nuclear Protection Proc.",
+   "title": "Radiation and Nuclear Protection Proclamation No. 1025/2017",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1025_2017.pdf",
+   "versions": [
+    {
+     "from": "2017-07-19",
+     "units": 32,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2017/pr_1025_2017.pdf",
+     "sha256": "ad1cebf93b4ab722cae582bd769878f90890af25c0c9359134735ab5511ba25f"
+    }
+   ]
+  },
+  {
+   "slug": "geothermal-resources-development",
+   "short": "Geothermal Resources Development Proc.",
+   "title": "Geothermal Resources Development Proclamation No. 981/2016",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_981_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-09-16",
+     "units": 52,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_981_2016.pdf",
+     "sha256": "7311a51f85fbec58dc618fb8f50686dbea39e6cb6a662fbeddf9e70dfa72f9ed"
+    }
+   ]
+  },
+  {
+   "slug": "ethiopian-aircraft-accident-and-incident-investi",
+   "short": "Ethiopian Aircraft Accident and Incident Investigation Proc.",
+   "title": "Ethiopian Aircraft Accident and Incident Investigation Proclamation No. 957/2016",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_957_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-07-12",
+     "units": 32,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2016/pr_957_2016.pdf",
+     "sha256": "97ffd4ccef37546c69ddbc25ff0283bca7a8ab6d7195c385c67619e901514569"
+    }
+   ]
+  },
+  {
+   "slug": "authentication-and-registration-of-documents",
+   "short": "Authentication and Registration of Documents’ Proc.",
+   "title": "Authentication and Registration of Documents’ Proclamation No. 922/2015",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2015/pr_922_2015.pdf",
+   "versions": [
+    {
+     "from": "2016-02-15",
+     "units": 42,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2015/pr_922_2015.pdf",
+     "sha256": "d5d30a56ed013c389d80429cd8787d89f90fe9c6dfb3e106b34883d03b2d08ba"
+    }
+   ]
+  },
+  {
+   "slug": "advertisement",
+   "short": "Advertisement Proc.",
+   "title": "Advertisement Proclamation No. 759/2012",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2012/pr_759_2012.pdf",
+   "versions": [
+    {
+     "from": "2012-08-27",
+     "units": 39,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2012/pr_759_2012.pdf",
+     "sha256": "6357fd94084fdbda19da910a86df8dd5aa1aa0619b5924242e1c8410b31b5abf"
+    }
+   ]
+  },
+  {
+   "slug": "national-payment-system",
+   "short": "National Payment System Proc.",
+   "title": "National Payment System Proclamation No. 718/2011",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2011/pr_718_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-18",
+     "units": 41,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2011/pr_718_2011.pdf",
+     "sha256": "787db2af4b54f1beb2158f065c10f925bf1233596240b3953ceaf5e5aa9af8b4"
+    }
+   ]
+  },
+  {
+   "slug": "biosafety",
+   "short": "Biosafety Proc.",
+   "title": "Biosafety Proclamation No. 655/2009",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2009/pr_655_2009.pdf",
+   "versions": [
+    {
+     "from": "2009-09-09",
+     "units": 25,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2009/pr_655_2009.pdf",
+     "sha256": "c9d01a7c82d82b8c4481bcd1e94448d8e5ad4d79197167e4fc0942dc7633f12a"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation",
+   "short": "Civil Aviation Proc.",
+   "title": "Civil Aviation Proclamation No. 616/2008",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_616_2008.pdf",
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 97,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_616_2008.pdf",
+     "sha256": "4aab413c7a2dcfa748508018d2d04480797d84dd2f78ea3bfb30c6670c0bb01d"
+    }
+   ]
+  },
+  {
+   "slug": "urban-planning",
+   "short": "Urban Planning Proc.",
+   "title": "Urban Planning Proclamation No. 574/2008",
+   "url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_574_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 63,
+     "source_url": "https://www.metaappz.com/pdf/ethiopian_laws/federal/2008/pr_574_2008.pdf",
+     "sha256": "166f3b62bbcf6b07b26a59997a9c74887f6b7b3cd67ffd825c7d13d6598e97f9"
+    }
+   ]
+  }
+ ]
+}
