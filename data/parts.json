@@ -1,0 +1,437 @@
+{
+ "parts": {
+  "60-labour.json": {
+   "acts": [
+    "labour"
+   ],
+   "sha256": "b4c59dd14712a1a21fc3d335b10b8966b21b4da7a11e9221059a982e3526383d"
+  },
+  "61-commercial-code.json": {
+   "acts": [
+    "commercial-code"
+   ],
+   "sha256": "06adfe5a1c5845c3d3dbb2acfa63c432bb093a7a350c63cd1d1763f57c62f3ab"
+  },
+  "62-federal-courts.json": {
+   "acts": [
+    "federal-courts"
+   ],
+   "sha256": "a5a74c52c413eac7f1fefe2254a6cc1421646f3608360725d30eb8fc9529c62c"
+  },
+  "63-federal-civil-servants.json": {
+   "acts": [
+    "federal-civil-servants"
+   ],
+   "sha256": "e4f0736afec591a5e941b84f1131f83252a508d2156704c1b78299fb1f52842d"
+  },
+  "64-civil-family-registration.json": {
+   "acts": [
+    "civil-family-registration"
+   ],
+   "sha256": "e3630a09093b99ee4fd56258d3ecf1930acb43666a79c7b72b26dd0b1b0df54d"
+  },
+  "66-personal-data-protection.json": {
+   "acts": [
+    "personal-data-protection"
+   ],
+   "sha256": "70af8139c8f711193b7148753ebd08ab1cd5a3ee8c2fe5dbd5e91bec65c59c7f"
+  },
+  "67-rural-land.json": {
+   "acts": [
+    "rural-land"
+   ],
+   "sha256": "6737929e1486bab6611425273acee262ea9aabe63907b23ca508f0644a5009bf"
+  },
+  "68-urban-landholding-registration.json": {
+   "acts": [
+    "urban-landholding-registration"
+   ],
+   "sha256": "69030c61583585aa5cad6e23f2e3161401e2d0669c116b8241ebb86c3a686eb8"
+  },
+  "69-environmental-social-impact.json": {
+   "acts": [
+    "environmental-social-impact-assessment"
+   ],
+   "sha256": "992e0ed412c37305eef94f8f990ff30f4d992554c11bf9d9490d1b1fb5625351"
+  },
+  "70-public-procurement.json": {
+   "acts": [
+    "public-procurement"
+   ],
+   "sha256": "6a1d6c81f3ad6873e0e51a099edb219b526bda22dcaba2fbf45f0451f08d9da6"
+  },
+  "71-government-owned-enterprises.json": {
+   "acts": [
+    "government-owned-enterprises"
+   ],
+   "sha256": "841b0704f01a2f7aa4e0e6fb26783b31d5eb9c07d0eceb902d98710cef0f2d8b"
+  },
+  "72-advocacy.json": {
+   "acts": [
+    "advocacy"
+   ],
+   "sha256": "bbdfb55b605338c1c2628d0647b328cd86bcd76e8061d5367f704b61b6765064"
+  },
+  "73-media.json": {
+   "acts": [
+    "media"
+   ],
+   "sha256": "96ebd60182a99f4f4149cb1255b97310cbb67ea8c97fe1640bdc32a0886fed4f"
+  },
+  "74-excise-tax.json": {
+   "acts": [
+    "excise-tax"
+   ],
+   "sha256": "b16f90331a8441e085a0d4a76026c2aa4770e0095abbd03d74d072d319dd3dc7"
+  },
+  "75-hate-speech.json": {
+   "acts": [
+    "hate-speech"
+   ],
+   "sha256": "2d5c0b7a2ac8ed6d836ae6a3eb4eb1ebc33731cfc0c79e938dfb1684ea5e8d7c"
+  },
+  "76-electoral-code.json": {
+   "acts": [
+    "electoral-code"
+   ],
+   "sha256": "7de5de913521d8b17d2ead4d39f954d8c82fa1611d48c871054697ca77e7ef30"
+  },
+  "77-expropriation.json": {
+   "acts": [
+    "expropriation"
+   ],
+   "sha256": "63e60afad50fa3c2fa69ccc50158502de06f6997bf055947cfba06ad40b16bb5"
+  },
+  "78-refugees.json": {
+   "acts": [
+    "refugees"
+   ],
+   "sha256": "9880b55a426b04dc0c4f3ca1b1ae608fbad5b21f1035869b563c55054146faf8"
+  },
+  "79-computer-crime.json": {
+   "acts": [
+    "computer-crime"
+   ],
+   "sha256": "46b1707e54e4c61724b623d77604f4321a7bcee7fd914329fc8b00c190cd18d8"
+  },
+  "80-cooperative-societies.json": {
+   "acts": [
+    "cooperative-societies"
+   ],
+   "sha256": "af513abeb5c36a95b0ba089b1b5301c21a24ad0b69983f0aeaaf19f7a1392228"
+  },
+  "81-urban-lands-lease.json": {
+   "acts": [
+    "urban-lands-lease"
+   ],
+   "sha256": "ad86dcf6e14caf941904ebc28575d5cccf37a00edbdcb61edb2662a77bb88441"
+  },
+  "82-terrorism.json": {
+   "acts": [
+    "terrorism"
+   ],
+   "sha256": "ef82ca1dc07f07716f66b88800226f43144584a4e535d1dc9a904071cfd7c386"
+  },
+  "83-trafficking.json": {
+   "acts": [
+    "trafficking"
+   ],
+   "sha256": "fd997d06afdc37df17aa87c26793c26ca4904c7cbd6a3e024ad6d6ccddc01105"
+  },
+  "84-civil-society-organizations.json": {
+   "acts": [
+    "civil-society-organizations"
+   ],
+   "sha256": "5c2284ec54c1fb9666b058f734452f00c5c7c34622c5fcec2d41ff40805b34b7"
+  },
+  "85-administrative-procedure.json": {
+   "acts": [
+    "administrative-procedure"
+   ],
+   "sha256": "4b79b5c1af8f0d752831417e2238b33d6ef71b8e652676ec796fdb99709ee556"
+  },
+  "86-capital-market.json": {
+   "acts": [
+    "capital-market"
+   ],
+   "sha256": "40d1d7bf386214ac922737d06a452de732b174ac2b68e3f27f01748f0ea7a846"
+  },
+  "87-special-economic-zone.json": {
+   "acts": [
+    "special-economic-zone"
+   ],
+   "sha256": "9bb426b4fbb669d10434dfb91d8da31d1ebf131e7aab1a8d0a629a5cfc42e09c"
+  },
+  "89-property-tax.json": {
+   "acts": [
+    "property-tax"
+   ],
+   "sha256": "ef1925d6a28a7c2eba8f157e46316d0cf43df389ece65f81f19318f5e151a2bd"
+  },
+  "90-real-estate.json": {
+   "acts": [
+    "real-estate"
+   ],
+   "sha256": "582e979590c5117f6633a9f659e5b0ba19784cb2e545d06f2fced5731c955a97"
+  },
+  "91-digital-identification.json": {
+   "acts": [
+    "digital-identification"
+   ],
+   "sha256": "a690f59741329ecb8c275363819ce8726e0000708a301cb6fd4b3d49a79fd6c6"
+  },
+  "92-private-employees-pension.json": {
+   "acts": [
+    "private-employees-pension"
+   ],
+   "sha256": "8cfadad5b13f82184ab07756025b6542f1f18fb6a39963b03659413a42e3a9d6"
+  },
+  "93-public-servants-pension.json": {
+   "acts": [
+    "public-servants-pension"
+   ],
+   "sha256": "dbe3284b4bc322a445733c63fb8c5ba8323ec2e92eb2004319177270c5e8dccc"
+  },
+  "94-electronic-signature.json": {
+   "acts": [
+    "electronic-signature"
+   ],
+   "sha256": "b63829426e5af88258f6951018ef04d55f9b960da4a123417530be045fe8b09d"
+  },
+  "95-privatization.json": {
+   "acts": [
+    "privatization"
+   ],
+   "sha256": "3cb93da92f8e4f066f7f2a7fbec9c245e65e4102a87be08770f84280c36842dd"
+  },
+  "96-public-private-partnership.json": {
+   "acts": [
+    "public-private-partnership"
+   ],
+   "sha256": "919d8e781a7b9b1c9845f88017670bbdd3e0d2b9ab65d2396395323d776d1241"
+  },
+  "97-startup.json": {
+   "acts": [
+    "startup"
+   ],
+   "sha256": "125f7ddd0ebf3d72ce80811780910647f242e7d4ab1000fa8bae46a1d4c400c0"
+  },
+  "98-foreign-nationals-housing.json": {
+   "acts": [
+    "foreign-nationals-housing"
+   ],
+   "sha256": "d34a9b0451ca3c470c0e0b306ac45e2922da9d035c52b4dc8f6cd099bd3f6227"
+  },
+  "99-overseas-employment.json": {
+   "acts": [
+    "overseas-employment"
+   ],
+   "sha256": "2f9573ee5dcf63d419c7c4e857bc9ae8f20e6cf9adb65a14e33a8f0ae2d1a2f9"
+  },
+  "9a-critical-infrastructure-cybersecurity.json": {
+   "acts": [
+    "critical-infrastructure-cybersecurity"
+   ],
+   "sha256": "1a9d70a38cf3911e53bd534f7f918544c9ee30a260cab7365626aa3197c2b7ee"
+  },
+  "9b-general-education.json": {
+   "acts": [
+    "general-education"
+   ],
+   "sha256": "8c117008bc455960572c58e80821a6c856e4ac83c39ac6fc124762ffeb128ac6"
+  },
+  "9c-health-service.json": {
+   "acts": [
+    "health-service"
+   ],
+   "sha256": "33b3eea790123850f67ac12b2c87bfcea864350f734f146bdbe858664cded3c8"
+  },
+  "9d-road-transport.json": {
+   "acts": [
+    "road-transport"
+   ],
+   "sha256": "6c20902f79e39824294bdd8d655951af733252da854b6504b9242fc3453fa404"
+  },
+  "9f-income-tax.json": {
+   "acts": [
+    "income-tax"
+   ],
+   "sha256": "6f5039baa23769727504c4a4dc4966ab1fcb594c2ef845804eea82cfa025f5f2"
+  },
+  "9g-building.json": {
+   "acts": [
+    "building"
+   ],
+   "sha256": "5b9d45f4f16ebb496973c35d6e0968f41de6b02c10ecc16ad2355c1f7dc776a2"
+  },
+  "a0-payment-for-ecosystem-services.json": {
+   "acts": [
+    "payment-for-ecosystem-services"
+   ],
+   "sha256": "e7852c48dcc46933af2a76ddd70f5c04078427f8ae4f423a5116af4323d28ead"
+  },
+  "a2-solid-waste-management-and-disposal.json": {
+   "acts": [
+    "solid-waste-management-and-disposal"
+   ],
+   "sha256": "1191e773347bd075c6674df8484ac22c35eb998fdc4aaabe671bd49ee5f7ed91"
+  },
+  "a3-riparian-buffer-zone-management.json": {
+   "acts": [
+    "riparian-buffer-zone-management"
+   ],
+   "sha256": "f2fd7d5a914b241614f80e6163f043ed49c2f0b72279332acf6dac3318f1e2a3"
+  },
+  "a6-ethiopian-standards.json": {
+   "acts": [
+    "ethiopian-standards"
+   ],
+   "sha256": "de058a52ba9ce35cb68b1cd666530e597cdcd9b9d0a5133f500fdd9b8e31437d"
+  },
+  "a7-information-technology-products-security-clearan.json": {
+   "acts": [
+    "information-technology-products-security-clearan"
+   ],
+   "sha256": "d520da5cca5f653799cfa3d210821918c755317a025b3c83574d8e100eda7629"
+  },
+  "a8-a-proclamation-to-provide-for-autonomy-of-univer.json": {
+   "acts": [
+    "a-proclamation-to-provide-for-autonomy-of-univer"
+   ],
+   "sha256": "ac00086a26a3ca299b3fbe81eecf04925364cc340dafd969604693f9377e03bd"
+  },
+  "a9-agricultural-production-contract.json": {
+   "acts": [
+    "agricultural-production-contract"
+   ],
+   "sha256": "e6d60a61583870939bc56f36b9de073bafdf1ccb49cead0f62bf927686dfbef7"
+  },
+  "b0-seed.json": {
+   "acts": [
+    "seed"
+   ],
+   "sha256": "37b81b4e30335568ae09485ea16c4c9edc65a792a32d9e4fdd4061ba976441fd"
+  },
+  "b1-defense-forces.json": {
+   "acts": [
+    "defense-forces"
+   ],
+   "sha256": "1d36b9637463d0ebf565fd985e3ebb070aa93e4009cbf4d7610c981362c2aab6"
+  },
+  "b2-community-based-health-insurance.json": {
+   "acts": [
+    "community-based-health-insurance"
+   ],
+   "sha256": "72be7f349e2e1880cb8e24ba86cd5e1a89a4547e81da021effb3dc52537f14af"
+  },
+  "b3-a-proclamation-to-define-the-powers-and-function.json": {
+   "acts": [
+    "a-proclamation-to-define-the-powers-and-function"
+   ],
+   "sha256": "b624d813f84bf012f3a5de169c756bce7078fb65afe4d6ff740ba54b8b47c439"
+  },
+  "b4-single-audit.json": {
+   "acts": [
+    "single-audit"
+   ],
+   "sha256": "83ee553d86b388fe8e7e30645e51badbb6c2e5192c8fd97cce295de23df04ecd"
+  },
+  "b5-the-system-of-inter-governmental-relations-in-th.json": {
+   "acts": [
+    "the-system-of-inter-governmental-relations-in-th"
+   ],
+   "sha256": "50d3cdeb9727c97e176c7fc250146e8d1bcb465e9c79d4a00db2b2f58bdacf3a"
+  },
+  "b7-the-federal-government-public-projects-administr.json": {
+   "acts": [
+    "the-federal-government-public-projects-administr"
+   ],
+   "sha256": "81832acb9d68b8d8bcbc20114f5942b65195c59ed913e99b5f65389bc68ec0bc"
+  },
+  "b8-transaction-of-minerals.json": {
+   "acts": [
+    "transaction-of-minerals"
+   ],
+   "sha256": "40c6b83c61ccd258229ca3b357d29668576938140c1fd01309180d658f19de73"
+  },
+  "c0-plant-breeders-right.json": {
+   "acts": [
+    "plant-breeders-right"
+   ],
+   "sha256": "c3c95062ea0082e815b65b3db4bdad8227a22ef29862fe6d78e32c50b893e583"
+  },
+  "c1-coffee-marketing-and-quality-control.json": {
+   "acts": [
+    "coffee-marketing-and-quality-control"
+   ],
+   "sha256": "a1a025a031567f011989630fc155fb6cf2c91cfd710942a35b74d25f7c34be01"
+  },
+  "c2-railway-transport-administration.json": {
+   "acts": [
+    "railway-transport-administration"
+   ],
+   "sha256": "1e210e2759039e2c5573a0e5a9b05fa8e6dbbdc8f86a96666a9f7a53aa1821c7"
+  },
+  "c3-radiation-and-nuclear-protection.json": {
+   "acts": [
+    "radiation-and-nuclear-protection"
+   ],
+   "sha256": "19ec0f12ab7c81654e4d7316e7da9644180fe23cf30c17c0757063f2705e2bea"
+  },
+  "c4-geothermal-resources-development.json": {
+   "acts": [
+    "geothermal-resources-development"
+   ],
+   "sha256": "ab285d1b36d75a6d37af55187aaf076bc9dd6ddac560655062c7a6c068647750"
+  },
+  "c5-ethiopian-aircraft-accident-and-incident-investi.json": {
+   "acts": [
+    "ethiopian-aircraft-accident-and-incident-investi"
+   ],
+   "sha256": "57bb1d5be1116cb4e5b9998c272721cc589192659301c072ab67ef645987d97f"
+  },
+  "c7-authentication-and-registration-of-documents.json": {
+   "acts": [
+    "authentication-and-registration-of-documents"
+   ],
+   "sha256": "a1036ecc4f964344567dad1cc6e9e5af7bb5429754c418739a05c1639d793c28"
+  },
+  "c9-advertisement.json": {
+   "acts": [
+    "advertisement"
+   ],
+   "sha256": "0425be728b1bd2aa3497cb61b44c5d52a65b65c81046a269fd020cd32c37f3e4"
+  },
+  "d0-national-payment-system.json": {
+   "acts": [
+    "national-payment-system"
+   ],
+   "sha256": "7f53bfe18fc3c7cfd2e3dda32a284e72e03cb21e9c3497968806832e0dc585f9"
+  },
+  "d6-biosafety.json": {
+   "acts": [
+    "biosafety"
+   ],
+   "sha256": "60935060a69391e36e23faa41b1a83cba96fe10c3e86c22cb0be242660365bd7"
+  },
+  "d7-civil-aviation.json": {
+   "acts": [
+    "civil-aviation"
+   ],
+   "sha256": "447ec8d163465cbc923ef8bdda126124d8bd745cc5b974d968d9fe13d4e8eff9"
+  },
+  "d8-urban-planning.json": {
+   "acts": [
+    "urban-planning"
+   ],
+   "sha256": "4df01472d92d64c0793be25cd3471184918c1fa3db70e0ef4d1f5b98a1d59b95"
+  },
+  "e0-protection-of-witnesses-and-whistleblowers-of-cr.json": {
+   "acts": [
+    "protection-of-witnesses-and-whistleblowers-of-cr"
+   ],
+   "sha256": "518b902abdf7bc74268d1e9b76bd8872669ff4b03ec7e0f0b5796f05c6df9dfa"
+  }
+ },
+ "schema": 1
+}
