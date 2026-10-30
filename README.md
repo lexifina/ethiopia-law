@@ -80,6 +80,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | `biosafety/` | Biosafety Proclamation No. 655/2009: preamble, Articles 1 to 23 and signature | 1 | As published in the Federal Negarit Gazette on 9 September 2009, the day it entered into force; later amendments not yet included |
 | `civil-aviation/` | Civil Aviation Proclamation No. 616/2008: preamble, Articles 1 to 95 and signature | 1 | As published in the Federal Negarit Gazette on 12 February 2009, the day it entered into force; later amendments not yet included |
 | `urban-planning/` | Urban Planning Proclamation No. 574/2008: preamble, Articles 1 to 61 and signature | 1 | As published in the Federal Negarit Gazette on 16 May 2008, the day it entered into force; later amendments not yet included |
+| `protection-of-witnesses-and-whistleblowers-of-cr/` | Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: preamble, Articles 1 to 33 and signature | 1 | As published in the Federal Negarit Gazette on 11 February 2011, the day it entered into force; later amendments not yet included |
 
 **Language.** English. The Constitution's Amharic version has final legal authority (Article 106); the Federal Negarit Gazette prints each proclamation in Amharic and English. Only the English text is included.
 

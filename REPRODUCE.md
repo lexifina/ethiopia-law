@@ -190,7 +190,7 @@ When a law gives no date of its own, the default rule applies: Proclamation No. 
 
 72 versions of 72 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 71 history commits and 144 tags (history tip `5788b3969c682fb4e9e3fdd04c472d7648b32e0a`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
