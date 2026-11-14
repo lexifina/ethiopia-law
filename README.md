@@ -1,111 +1,88 @@
 # Ethiopia: law history in git
 
+
+The law of Ethiopia as a git history: one file per article, one commit per version on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ethiopia's national law, which global-law reads at `ethiopia/national/acts/`.
 
-The law of Ethiopia as a git history: one file per provision, one commit per law on the day it took effect, and the law that made each change as the commit's author. `git blame` names the law behind every paragraph; `git log` lists every change; picking a date gives the text in force that day.
+**What is in it now:** the Constitution of 1995 and 77 federal proclamations, among them the Labour Proclamation and the Commercial Code, each in one version, as first published (5,212 files of articles, preambles and signatures); one more proclamation, in force from 21 July 2027, is on the `future` branch. [`data/laws.csv`](data/laws.csv) lists every law with its dates and source, and each act's folder has a `README.md` listing its articles.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+Each act has its own folder, one file per article: `labour/art-077.md` is Article 77 of the Labour Proclamation No. 1156/2019, the amount of annual leave; the Constitution is in `constitution/`.
 
-**What is in it now (a first build, not complete)**
+The text is in English, the English column of the bilingual Federal Negarit Gazette. The Amharic text, which prevails where the two differ, is not part of this record.
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `constitution/` | Constitution of the Federal Democratic Republic of Ethiopia (1995): preamble and Articles 1 to 106 | 1 | As proclaimed in force on 21 August 1995 (the Constitution has not been amended) |
-| `labour/` | Labour Proclamation No. 1156/2019: preamble, Articles 1 to 193 and signature | 1 | As published in the Federal Negarit Gazette on 5 September 2019, the day it entered into force; later amendments not yet included |
-| `commercial-code/` | Commercial Code of Ethiopia, Proclamation No. 1243/2021: preamble, the proclamation's Articles 1 to 7, signature, and the Code's Articles 1 to 825 | 1 | As published in the Federal Negarit Gazette (Extraordinary Issue, 27th Year No. 23) on 12 April 2021, the day it came into effect; later amendments not yet included |
-| `federal-courts/` | Federal Courts Proclamation No. 1234/2021: preamble, Articles 1 to 58 and signature | 1 | In force from 21 January 2021, the day its Article 58 names (published in the Federal Negarit Gazette on 26 April 2021); later amendments not yet included |
-| `federal-civil-servants/` | Federal Civil Servants Proclamation No. 1353/2025: preamble, Articles 1 to 160 and signature | 1 | As published in the Federal Negarit Gazette on 9 January 2025, the day it entered into force |
-| `civil-family-registration/` | Civil and Family Registration Proclamation No. 1370/2025: preamble, Articles 1 to 76 and signature | 1 | As published in the Federal Negarit Gazette on 17 March 2025, the day it entered into force |
-| `urban-landholding-registration/` | Urban Landholding and Land-related Property Registration Proclamation No. 1381/2025: preamble, Articles 1 to 62 and signature | 1 | As published in the Federal Negarit Gazette on 18 July 2025, the day it entered into force; later amendments not yet included |
-| `public-procurement/` | Federal Public Procurement and Property Administration Proclamation No. 1333/2024: preamble, Articles 1 to 91 and signature | 1 | As published in the Federal Negarit Gazette on 9 September 2024, the day it entered into force; later amendments not yet included |
-| `advocacy/` | Federal Advocacy Service Licensing and Administration Proclamation No. 1249/2021: preamble, Articles 1 to 101 and signature | 1 | As published in the Federal Negarit Gazette on 5 August 2021, the day it entered into force; later amendments not yet included |
-| `media/` | Media Proclamation No. 1238/2021: preamble, Articles 1 to 92 and signature | 1 | As published in the Federal Negarit Gazette on 5 April 2021, the day it entered into force; later amendments not yet included |
-| `urban-lands-lease/` | Urban Lands Lease Holding Proclamation No. 721/2011: preamble, Articles 1 to 38 and signature | 1 | As published in the Federal Negarit Gazette on 28 November 2011, the day it entered into force; later amendments not yet included |
-| `personal-data-protection/` | Personal Data Protection Proclamation No. 1321/2024: preamble, Articles 1 to 70 and signature | 1 | As published in the Federal Negarit Gazette on 24 July 2024, the day it entered into force; later amendments not yet included |
-| `rural-land/` | Rural Land Administration and Use Proclamation No. 1324/2024: preamble, Articles 1 to 68 and signature | 1 | As published in the Federal Negarit Gazette on 14 August 2024, the day it entered into force; later amendments not yet included |
-| `environmental-social-impact-assessment/` | Environmental and Social Impact Assessment Proclamation No. 1371/2025: preamble, Articles 1 to 25 and signature | 1 | As published in the Federal Negarit Gazette on 11 April 2025, the day it entered into force; later amendments not yet included |
-| `government-owned-enterprises/` | Federal Government-Owned Enterprises Proclamation No. 1314/2024: preamble, Articles 1 to 48 and signature | 1 | As published in the Federal Negarit Gazette on 16 May 2024, the day it entered into force; later amendments not yet included |
-| `excise-tax/` | Excise Tax Proclamation No. 1186/2020: preamble, Articles 1 to 45 and signature | 1 | In force from 13 February 2020, the day it names (published in the Federal Negarit Gazette on 17 March 2020); later amendments not yet included |
-| `hate-speech/` | Hate Speech and Disinformation Prevention and Suppression Proclamation No. 1185/2020: preamble, Articles 1 to 10 and signature | 1 | As published in the Federal Negarit Gazette on 23 March 2020, the day it entered into force; later amendments not yet included |
-| `electoral-code/` | Ethiopian Electoral, Political Parties Registration and Election's Code of Conduct Proclamation No. 1162/2019: preamble, Articles 1 to 164 and signature | 1 | In force from 24 August 2019, the day it names (published in the Federal Negarit Gazette on 16 October 2019); later amendments not yet included |
-| `expropriation/` | Expropriation of Land Holdings for Public Purposes, Payments of Compensation and Resettlement Proclamation No. 1161/2019: preamble, Articles 1 to 29 and signature | 1 | As published in the Federal Negarit Gazette on 23 September 2019, the day it entered into force; later amendments not yet included |
-| `refugees/` | Refugees Proclamation No. 1110/2019: preamble, Articles 1 to 47 and signature | 1 | As published in the Federal Negarit Gazette on 27 February 2019, the day it entered into force; later amendments not yet included |
-| `computer-crime/` | Computer Crime Proclamation No. 958/2016: preamble, Articles 1 to 46 and signature | 1 | As published in the Federal Negarit Gazette on 7 July 2016, the day it entered into force; later amendments not yet included |
-| `cooperative-societies/` | Cooperative Societies Proclamation No. 985/2016: preamble, Articles 1 to 77 and signature | 1 | As published in the Federal Negarit Gazette on 23 December 2016, the day it entered into force; later amendments not yet included |
-| `terrorism/` | Prevention and Suppression of Terrorism Crimes Proclamation No. 1176/2020: preamble, Articles 1 to 49 and signature | 1 | As published in the Federal Negarit Gazette on 25 March 2020, the day it entered into force; later amendments not yet included |
-| `trafficking/` | Prevention and Suppression of Trafficking in Persons and Smuggling of Persons Proclamation No. 1178/2020: preamble, Articles 1 to 47 and signature | 1 | As published in the Federal Negarit Gazette on 1 April 2020, the day it entered into force; later amendments not yet included |
-| `civil-society-organizations/` | Organizations of Civil Societies Proclamation No. 1113/2019: preamble, Articles 1 to 90 and signature | 1 | As published in the Federal Negarit Gazette on 12 March 2019, the day it entered into force; later amendments not yet included |
-| `administrative-procedure/` | Federal Administrative Procedure Proclamation No. 1183/2020: preamble, Articles 1 to 62 and signature | 1 | As published in the Federal Negarit Gazette on 7 April 2020, the day it entered into force; later amendments not yet included |
-| `capital-market/` | Capital Market Proclamation No. 1248/2021: preamble, Articles 1 to 113 and signature | 1 | As published in the Federal Negarit Gazette on 23 July 2021, the day it entered into force; later amendments not yet included |
-| `special-economic-zone/` | Special Economic Zone Proclamation No. 1322/2024: preamble, Articles 1 to 94 and signature | 1 | As published in the Federal Negarit Gazette on 20 May 2024, the day it entered into force; later amendments not yet included |
-| `property-tax/` | Property Tax Proclamation No. 1365/2025: preamble, Articles 1 to 43 and signature | 1 | As published in the Federal Negarit Gazette on 26 March 2025, the day it entered into force; later amendments not yet included |
-| `real-estate/` | Real Estate Development and Real Property Marketing and Valuation Proclamation No. 1357/2024: preamble, Articles 1 to 36 and signature | 1 | As published in the Federal Negarit Gazette on 31 March 2025, the day it entered into force; later amendments not yet included |
-| `digital-identification/` | Ethiopian Digital Identification Proclamation No. 1284/2023: preamble, Articles 1 to 26 and signature | 1 | As published in the Federal Negarit Gazette on 18 April 2023, the day it entered into force; later amendments not yet included |
-| `private-employees-pension/` | Private Organization Employees' Pension Proclamation No. 1268/2022: preamble, Articles 1 to 63 and signature | 1 | As published in the Federal Negarit Gazette on 18 March 2022, the day it entered into force; later amendments not yet included |
-| `public-servants-pension/` | Public Servants' Pension Proclamation No. 1267/2022: preamble, Articles 1 to 64 and signature | 1 | As published in the Federal Negarit Gazette on 18 March 2022, the day it entered into force; later amendments not yet included |
-| `electronic-signature/` | Electronic Signature Proclamation No. 1072/2018: preamble, Articles 1 to 54 and signature | 1 | As published in the Federal Negarit Gazette on 16 February 2018, the day it entered into force; later amendments not yet included |
-| `privatization/` | Public Enterprises Privatization Proclamation No. 1206/2020: preamble, Articles 1 to 21 and signature | 1 | As published in the Federal Negarit Gazette on 10 July 2020, the day it entered into force; later amendments not yet included |
-| `public-private-partnership/` | Public Private Partnership Proclamation No. 1076/2018: preamble, Articles 1 to 68 and signature | 1 | As published in the Federal Negarit Gazette on 22 February 2018, the day it entered into force; later amendments not yet included |
-| `startup/` | Startup Proclamation No. 1396/2025: preamble, Articles 1 to 44 and signature | 1 | As published in the Federal Negarit Gazette on 2 September 2025, the day it entered into force; later amendments not yet included |
-| `foreign-nationals-housing/` | Foreign Nationals' Ownership Right of Residential House Proclamation No. 1388/2025: preamble, Articles 1 to 21 and signature | 1 | As published in the Federal Negarit Gazette on 2 October 2025, the day it entered into force; later amendments not yet included |
-| `overseas-employment/` | Ethiopia's Overseas Employment Proclamation No. 1389/2025: preamble, Articles 1 to 89 and signature | 1 | As published in the Federal Negarit Gazette on 8 August 2025, the day it entered into force; later amendments not yet included |
-| `critical-infrastructure-cybersecurity/` | Critical Infrastructure Cybersecurity Proclamation No. 1426/2026: preamble, Articles 1 to 28 and signature | 1 | Published in the Federal Negarit Gazette on 21 July 2026; in force from 21 July 2027, the day it names (on the future branch until then); later amendments not yet included |
-| `general-education/` | General Education Proclamation No. 1368/2025: preamble, Articles 1 to 97 and signature | 1 | As published in the Federal Negarit Gazette on 10 April 2025, the day it entered into force; later amendments not yet included |
-| `health-service/` | Health Service Administration and Regulation Proclamation No. 1362/2024: preamble, Articles 1 to 59 and signature | 1 | As published in the Federal Negarit Gazette on 20 May 2025, the day it entered into force; later amendments not yet included |
-| `road-transport/` | Road Transport Proclamation No. 1274/2022: preamble, Articles 1 to 14 and signature | 1 | As published in the Federal Negarit Gazette on 15 July 2022, the day it entered into force; later amendments not yet included |
-| `income-tax/` | Federal Income Tax Proclamation No. 979/2016: preamble, Articles 1 to 102 and signature | 1 | In force from 8 July 2016, the day it names (published in the Federal Negarit Gazette on 18 August 2016); later amendments not yet included |
-| `building/` | Ethiopian Building Proclamation No. 1356/2024: preamble, Articles 1 to 54 and signature | 1 | As published in the Federal Negarit Gazette on 7 May 2025, the day it entered into force; later amendments not yet included |
-| `payment-for-ecosystem-services/` | Payment for Ecosystem Services Proclamation No. 1401/2026: preamble, Articles 1 to 18 and signature | 1 | As published in the Federal Negarit Gazette on 21 April 2026, the day it entered into force; later amendments not yet included |
-| `solid-waste-management-and-disposal/` | Solid Waste Management and Disposal Proclamation No. 1383/2025: preamble, Articles 1 to 28 and signature | 1 | As published in the Federal Negarit Gazette on 31 July 2025, the day it entered into force; later amendments not yet included |
-| `riparian-buffer-zone-management/` | Riparian Buffer Zone Management Proclamation No. 1382/2025: preamble, Articles 1 to 17 and signature | 1 | As published in the Federal Negarit Gazette on 17 June 2025, the day it entered into force; later amendments not yet included |
-| `ethiopian-standards/` | Ethiopian Standards Proclamation No. 1343/2024: preamble, Articles 1 to 45 and signature | 1 | As published in the Federal Negarit Gazette on 23 October 2024, the day it entered into force; later amendments not yet included |
-| `information-technology-products-security-clearan/` | Information Technology Products Security Clearance and Control Proclamation No. 1310/2023: preamble, Articles 1 to 25 and signature | 1 | As published in the Federal Negarit Gazette on 6 March 2024, the day it entered into force; later amendments not yet included |
-| `a-proclamation-to-provide-for-autonomy-of-univer/` | A Proclamation to provide for Autonomy of Universities Proclamation No. 1294/2023: preamble, Articles 1 to 48 and signature | 1 | As published in the Federal Negarit Gazette on 6 October 2023, the day it entered into force; later amendments not yet included |
-| `agricultural-production-contract/` | Agricultural Production Contract Proclamation No. 1289/2023: preamble, Articles 1 to 27 and signature | 1 | As published in the Federal Negarit Gazette on 6 July 2023, the day it entered into force; later amendments not yet included |
-| `seed/` | Seed Proclamation No. 1288/2023: preamble, Articles 1 to 31 and signature | 1 | As published in the Federal Negarit Gazette on 24 July 2023, the day it entered into force; later amendments not yet included |
-| `defense-forces/` | Defense Forces Proclamation No. 1286/2023: preamble, Articles 1 to 87 and signature | 1 | As published in the Federal Negarit Gazette on 19 September 2023, the day it entered into force; later amendments not yet included |
-| `community-based-health-insurance/` | Community Based Health Insurance Proclamation No. 1273/2022: preamble, Articles 1 to 33 and signature | 1 | As published in the Federal Negarit Gazette on 9 August 2022, the day it entered into force; later amendments not yet included |
-| `a-proclamation-to-define-the-powers-and-function/` | A Proclamation to Define the Powers and Functions of the House of Federation Proclamation No. 1261/2021: preamble, Articles 1 to 85 and signature | 1 | In force from 7 July 2021, the day it names (published in the Federal Negarit Gazette on 19 August 2021); later amendments not yet included |
-| `single-audit/` | Single Audit Proclamation No. 1251/2021: preamble, Articles 1 to 12 and signature | 1 | As published in the Federal Negarit Gazette on 7 July 2021, the day it entered into force; later amendments not yet included |
-| `the-system-of-inter-governmental-relations-in-th/` | The System of Inter-Governmental Relations in the Federal Democratic Republic of Ethiopia’s Determination Proclamation No. 1231/2021: preamble, Articles 1 to 34 and signature | 1 | As published in the Federal Negarit Gazette on 11 January 2021, the day it entered into force; later amendments not yet included |
-| `the-federal-government-public-projects-administr/` | The Federal Government Public Projects Administration and Management System Proclamation No. 1210/2020: preamble, Articles 1 to 28 and signature | 1 | As published in the Federal Negarit Gazette on 29 July 2020, the day it entered into force; later amendments not yet included |
-| `transaction-of-minerals/` | Transaction of Minerals Proclamation No. 1144/2019: preamble, Articles 1 to 41 and signature | 1 | As published in the Federal Negarit Gazette on 15 August 2019, the day it entered into force; later amendments not yet included |
-| `plant-breeders-right/` | Plant Breeder's Right Proclamation No. 1068/2017: preamble, Articles 1 to 34 and signature | 1 | As published in the Federal Negarit Gazette on 1 March 2018, the day it entered into force; later amendments not yet included |
-| `coffee-marketing-and-quality-control/` | Coffee Marketing and Quality Control Proclamation No. 1051/2017: preamble, Articles 1 to 25 and signature | 1 | As published in the Federal Negarit Gazette on 5 June 2017, the day it entered into force; later amendments not yet included |
-| `railway-transport-administration/` | Railway Transport Administration Proclamation No. 1048/2017: preamble, Articles 1 to 52 and signature | 1 | As published in the Federal Negarit Gazette on 26 July 2017, the day it entered into force; later amendments not yet included |
-| `radiation-and-nuclear-protection/` | Radiation and Nuclear Protection Proclamation No. 1025/2017: preamble, Articles 1 to 30 and signature | 1 | As published in the Federal Negarit Gazette on 19 July 2017, the day it entered into force; later amendments not yet included |
-| `geothermal-resources-development/` | Geothermal Resources Development Proclamation No. 981/2016: preamble, Articles 1 to 50 and signature | 1 | As published in the Federal Negarit Gazette on 16 September 2016, the day it entered into force; later amendments not yet included |
-| `ethiopian-aircraft-accident-and-incident-investi/` | Ethiopian Aircraft Accident and Incident Investigation Proclamation No. 957/2016: preamble, Articles 1 to 30 and signature | 1 | As published in the Federal Negarit Gazette on 12 July 2016, the day it entered into force; later amendments not yet included |
-| `authentication-and-registration-of-documents/` | Authentication and Registration of Documents’ Proclamation No. 922/2015: preamble, Articles 1 to 40 and signature | 1 | As published in the Federal Negarit Gazette on 15 February 2016, the day it entered into force; later amendments not yet included |
-| `advertisement/` | Advertisement Proclamation No. 759/2012: preamble, Articles 1 to 37 and signature | 1 | As published in the Federal Negarit Gazette on 27 August 2012, the day it entered into force; later amendments not yet included |
-| `national-payment-system/` | National Payment System Proclamation No. 718/2011: preamble, Articles 1 to 39 and signature | 1 | As published in the Federal Negarit Gazette on 18 July 2011, the day it entered into force; later amendments not yet included |
-| `biosafety/` | Biosafety Proclamation No. 655/2009: preamble, Articles 1 to 23 and signature | 1 | As published in the Federal Negarit Gazette on 9 September 2009, the day it entered into force; later amendments not yet included |
-| `civil-aviation/` | Civil Aviation Proclamation No. 616/2008: preamble, Articles 1 to 95 and signature | 1 | As published in the Federal Negarit Gazette on 12 February 2009, the day it entered into force; later amendments not yet included |
-| `urban-planning/` | Urban Planning Proclamation No. 574/2008: preamble, Articles 1 to 61 and signature | 1 | As published in the Federal Negarit Gazette on 16 May 2008, the day it entered into force; later amendments not yet included |
-| `protection-of-witnesses-and-whistleblowers-of-cr/` | Protection of Witnesses and Whistleblowers of Criminal Offences Proclamation No. 699/2010: preamble, Articles 1 to 33 and signature | 1 | As published in the Federal Negarit Gazette on 11 February 2011, the day it entered into force; later amendments not yet included |
-| `technical-and-vocational-education-and-training/` | Technical and Vocational Education and Training Proclamation No. 954/2016: preamble, Articles 1 to 46 and signature | 1 | Oldest version available: Gazette text in force from 2016-05-27; later amendments are not represented |
-| `social-health-insurance/` | Social Health Insurance Proclamation No. 690/2010: preamble, Articles 1 to 12 and signature | 1 | Oldest version available: Gazette text in force from 2011-08-19; later amendments are not represented |
-| `vehicles-identification-inspection-and-registration/` | Vehicles Identification, Inspection and Registration Proclamation No. 681/2010: preamble, Articles 1 to 52 and signature | 1 | Oldest version available: Gazette text in force from 2010-08-11; later amendments are not represented |
-| `disclosure-and-registration-of-assets/` | Disclosure and Registration of Assets Proclamation No. 668/2010: preamble, Articles 1 to 25 and signature | 1 | Oldest version available: Gazette text in force from 2010-04-12; later amendments are not represented |
-| `animal-health-and-welfare/` | Animal Health and Welfare Proclamation No. 1376/2025: preamble, Articles 1 to 43 and signature | 1 | Oldest version available: Gazette text in force from 2025-08-12; later amendments are not represented |
-| `legal-metrology/` | Legal Metrology Proclamation No. 1344/2024: preamble, Articles 1 to 23 and signature | 1 | Oldest version available: Gazette text in force from 2024-09-10; later amendments are not represented |
+## Questions as git commands
 
-**Language.** English. The Constitution's Amharic version has final legal authority (Article 106); the Federal Negarit Gazette prints each proclamation in Amharic and English. Only the English text is included.
+| Question | Command |
+| --- | --- |
+| Every change to Article 77 of the Labour Proclamation | `git log -p --word-diff -- labour/art-077.md` |
+| Which law wrote each line of Article 77? | `git blame labour/art-077.md` |
+| Every version of the Labour Proclamation, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- labour ':!*/README.md'` |
+| Article 77 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 labour 77` |
 
-**Source.** Constitution: a third-party copy, Equipo Nizkor / Derechos Human Rights, https://www.derechos.org/intlaw/doc/eth2.html (Proclamation No. 1/1995, Federal Negarit Gazeta no. 1, 21 August 1995), retrieved 30 October 2026; the host is the source of the bytes, not the publisher of the law. Later proclamations: the bilingual Federal Negarit Gazette issues themselves (the English column of the issue's own text layer), from the copies hosted by MetaAppz (for example https://www.metaappz.com/pdf/ethiopian_laws/federal/2019/pr_1156_2019.pdf, Federal Negarit Gazette 25th Year No. 89; the Commercial Code is printed as a separate Gazette book, Amharic then English, and only the English book is used), retrieved 30 October 2026. Copying is allowed because Ethiopia's copyright proclamation excludes official legal texts from protection (see LICENSE).
+**Outside git**, we also host this record publicly, for free:
+
+- **[Ask Claude about Ethiopian law](https://global-law.lexifina.com/v1/try_claude?country=ethiopia)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=ethiopia)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=annual+leave&jurisdictions=ethiopia)**: a search of Ethiopian law for "annual leave", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add ethiopia/national/acts
+python3 tools/law.py show 2026-01-01 ethiopia/national/acts/labour/art-077.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
-Each commit is dated at noon, Africa/Addis_Ababa. The Constitution is dated 21 August 1995, the day Proclamation No. 1/1995 (article 2) says it came into full force and effect; it was ratified on 8 December 1994. Each later proclamation is dated by its own effective-date article; most enter into force on publication in the Federal Negarit Gazette and are dated by the issue's date; a few (for example the Federal Courts, Excise Tax, Electoral and Income Tax proclamations) name an earlier in-force or application day, such as the day the House of Peoples' Representatives adopted them, and are dated by that day.
+Each commit is dated at noon, Africa/Addis_Ababa, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- the Constitution, 21 August 1995, the day Proclamation No. 1/1995 says it came into full force (it was ratified on 8 December 1994);
+- a proclamation, the day its own effective-date article gives: for most, publication in the Federal Negarit Gazette, so the issue's date;
+- a few name another day: an earlier one (the day the House of Peoples' Representatives adopted the Federal Courts, Excise Tax, Electoral and House of Federation proclamations; 8 July 2016 for the Income Tax Proclamation), or a later one (Social Health Insurance, a year after publication; Critical Infrastructure Cybersecurity, 21 July 2027, on the `future` branch until then, which `tools/on.py` reads for later days).
+
+Each version is credited to the proclamation that made it (the Constitution to Proclamation No. 1/1995). Six acts are labelled "oldest version available" and credited to the publisher, `Federal Negarit Gazette (House of Peoples' Representatives); issue PDFs as hosted by MetaAppz`. The committer is Lexifina.
 
 ## How it is checked
 
-Every version is read back from git on the day it took effect and on the day before (`tools/check_repo.py`) and must match `corpus.json`; results are in `REPRODUCE.md`.
+- `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, compares it file by file with the corpus it was built from, and checks every commit's trailers; [`REPRODUCE.md`](REPRODUCE.md) does not yet record a run for the published build.
+- A second build from the same corpus into an empty folder gave identical hashes for all 78 history commits and 152 tags (see `REPRODUCE.md`).
+- Misprints in the Gazette (an article heading printed with the wrong number, a line missing from the English text) are listed one by one in `REPRODUCE.md`; the wording is kept as printed.
+- History is append-only: new acts go on top (`tools/append.py`), and no published commit is rewritten.
 
-## What "author" means
+## What it does not show
 
-The author of a commit is the law that made the change, with an e-mail address that cannot exist (`<law key>@derechos-org.invalid`). Each version is credited to the proclamation that made it (the Constitution to Proclamation No. 1/1995). The committer is always Lexifina.
+- **Amendments.** Each act is held once, as first published; later amending proclamations are not applied, so an article may differ from the text in force today.
+- **Most federal law.** Federal proclamations are numbered from No. 1/1995 (the Constitution's) to No. 1426/2026, the newest here; this record holds 79 of them, one on `future`. Regulations, directives, regional law, case law and bills are not here.
+- **The Amharic text, and PART, CHAPTER and SECTION headings.** Each file starts with its article's number and heading.
+- **Articles that start later than the rest of their act** (Federal Courts Proclamation, Article 56(2): Articles 11 to 15, six months on) are dated with the rest.
+- **The Constitution from the Gazette itself.** Its text is a third-party copy of Federal Negarit Gazeta no. 1 of 1995.
 
-## Limits
+## Sources
 
-Not complete: the Constitution and a few core federal proclamations, English text only. The Constitution's text is copied from a third-party host (not the Federal Negarit Gazeta itself). PART, CHAPTER and SECTION headings are not included. Amendments to the proclamations are not yet included, and other Ethiopian law (regional law, regulations, directives) is not included.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [MetaAppz](https://www.metaappz.com/) | Federal Negarit Gazette issues (bilingual PDFs), hosted by a third party | no, each act as first published | The English column of each issue's own text layer (the Commercial Code from its separate English book); MetaAppz is credited as the source of the bytes, not the publisher |
+| [Equipo Nizkor / Derechos Human Rights](https://www.derechos.org/intlaw/doc/eth2.html) | Third-party copy of the Constitution (Proclamation No. 1/1995, Federal Negarit Gazeta no. 1) | one text; it has not been amended | Credited as the source of the bytes, not the publisher |
+
+## Licence
+
+See [`LICENSE`](LICENSE). Official legal texts are not protected by copyright in Ethiopia: the Copyright and Neighbouring Rights Protection Proclamation No. 410/2004, Article 5(b), excludes "any official text of a legislative, administrative or of legal nature, as well as official translations thereof". Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
+
+No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): questions and answers · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proposing changes · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): the MCP server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): how it was built · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): how current each corpus is · [Monitoring](https://github.com/lexifina/global-law/tree/main/monitoring): whether updates are running · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): how each official source is watched for changes
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): how fast the tools are, measured
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
