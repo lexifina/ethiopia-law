@@ -59,6 +59,7 @@ Each version is credited to the proclamation that made it (the Constitution to P
 - A second build from the same corpus into an empty folder gave identical hashes for all 78 history commits and 152 tags (see `REPRODUCE.md`).
 - Misprints in the Gazette (an article heading printed with the wrong number, a line missing from the English text) are listed one by one in `REPRODUCE.md`; the wording is kept as printed.
 - History is append-only: new acts go on top (`tools/append.py`), and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.md): possible drafting mistakes in Ethiopian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
