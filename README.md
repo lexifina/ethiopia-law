@@ -63,6 +63,7 @@ Each version is credited to the proclamation that made it (the Constitution to P
 
 ## What it does not show
 
+- **Clean text of the four core codes.** The Civil Code (1960), Criminal Code (2004), Civil Procedure Code (1965) and Criminal Procedure Code (1961) in `codes/` are the OCR text layers of third-party scans (`Text-source: publisher OCR (third-party scan; known reading errors)`); misread words are kept, and articles whose heading was not read as one sit inside the article before them.
 - **Amendments.** Each act is held once, as first published; later amending proclamations are not applied, so an article may differ from the text in force today.
 - **Every federal act.** Only issues whose PDF has an English text layer and whose articles, signature and in-force day pass the checks are here; scanned issues (no OCR is used) and issues that fail a check are left out and listed in `REPRODUCE.md`. Directives, regional law, case law and bills are not here.
 - **The Amharic text, and PART, CHAPTER and SECTION headings.** Each file starts with its article's number and heading.

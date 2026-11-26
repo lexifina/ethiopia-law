@@ -7,6 +7,7 @@ How this repository is laid out, and how a commit is dated.
 | Folder | What is in it |
 | --- | --- |
 | `constitution/` | The Constitution of the Federal Democratic Republic of Ethiopia, Proclamation No. 1/1995 |
+| `codes/<name>-<year>/` | The core codes: Civil Code 1960, Criminal Code 2004, Civil Procedure Code 1965, Criminal Procedure Code 1961 (a code over 1,000 articles in subfolders of 1,000; text from third-party scans' OCR layer, tagged `Text-source`) |
 | `proclamations/<year>/<number>-<slug>/` | Federal proclamations of the House of Peoples' Representatives, by the year and number of the proclamation (`proclamations/2019/1156-labour/` is Labour Proclamation No. 1156/2019) |
 | `regulations/<year>/<number>-<slug>/` | Council of Ministers regulations, the same way (`regulations/2020/0469-...` is Regulation No. 469/2020) |
 | `directives/<year>/<number>-<slug>/` | Directives, the same way (none yet) |
