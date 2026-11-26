@@ -6,6 +6,10 @@ Official legal texts are not protected by copyright in Ethiopia. Copyright and N
 
 The other proclamations are copied from the bilingual Federal Negarit Gazette issues (English column), using the issue PDFs hosted by MetaAppz (https://www.metaappz.com/), which is credited as the source of the bytes; it is not the publisher of the law.
 
+Further proclamations and regulations are copied from the Federal Negarit Gazette PDFs published by the Ministry of Justice of the Federal Democratic Republic of Ethiopia in its law register (https://justice.gov.et/en/laws/), an official source; the same Article 5(b) exclusion applies.
+
+The Civil Code (1960), Criminal Code (2004), Civil Procedure Code (1965) and Criminal Procedure Code (1961) in codes/ are the OCR text layers of scanned copies hosted by LawEthiopia (https://www.lawethiopia.com/) and Citizenship Rights in Africa (https://citizenshiprightsafrica.org/); those hosts are credited as the source of the bytes, not the publisher, and Lexifina makes no claim about their terms of use. The legal text is exempt from copyright under the same Article 5(b).
+
 Changes made by Lexifina: each text was converted to one Markdown file per article (from the HTML page for the Constitution, from the PDF text layer for the proclamations), one paragraph or item per line; line wraps, spacing and quotation marks were normalised; Chapter, Part and Section headings, the Amharic column, running heads and page numbers were left out. The wording of the law was not changed.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the

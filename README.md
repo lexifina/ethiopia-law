@@ -75,6 +75,8 @@ Each version is credited to the proclamation that made it (the Constitution to P
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [MetaAppz](https://www.metaappz.com/) | Federal Negarit Gazette issues (bilingual PDFs), hosted by a third party | no, each act as first published | The English column of each issue's own text layer (the Commercial Code from its separate English book); MetaAppz is credited as the source of the bytes, not the publisher |
+| [Ministry of Justice law register](https://justice.gov.et/en/laws/) | Federal Negarit Gazette PDFs, official | no, each act as first published | Used for acts whose MetaAppz copy failed a check or was missing; commits carry `Source-status: official copy (...)` |
+| [LawEthiopia](https://www.lawethiopia.com/), [Citizenship Rights in Africa](https://citizenshiprightsafrica.org/) | Scans of the four core codes | one text each | OCR text layer of the scan, tagged `Text-source: publisher OCR (third-party scan; known reading errors)` |
 | [Equipo Nizkor / Derechos Human Rights](https://www.derechos.org/intlaw/doc/eth2.html) | Third-party copy of the Constitution (Proclamation No. 1/1995, Federal Negarit Gazeta no. 1) | one text; it has not been amended | Credited as the source of the bytes, not the publisher |
 
 ## Licence
