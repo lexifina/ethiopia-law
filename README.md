@@ -9,9 +9,9 @@ The law of Ethiopia as a git history: one file per article, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ethiopia's national law, which global-law reads at `ethiopia/national/acts/`.
 
-**What is in it now:** the Constitution of 1995 and 77 federal proclamations, among them the Labour Proclamation and the Commercial Code, each in one version, as first published (5,212 files of articles, preambles and signatures); one more proclamation, in force from 21 July 2027, is on the `future` branch. [`data/laws.csv`](data/laws.csv) lists every law with its dates and source, and each act's folder has a `README.md` listing its articles.
+**What is in it now:** the Constitution of 1995, 77 federal proclamations and 0 Council of Ministers regulations, each as first published in the Federal Negarit Gazette (5,342 files); one more proclamation, in force from 21 July 2027, is on the `future` branch. See [STRUCTURE.md](STRUCTURE.md) for the layout.
 
-Each act has its own folder, one file per article: `labour/art-077.md` is Article 77 of the Labour Proclamation No. 1156/2019, the amount of annual leave; the Constitution is in `constitution/`.
+Each act has its own folder, by type, year and number, one file per article: `proclamations/2019/1156-labour/art-077.md` is Article 77 of the Labour Proclamation No. 1156/2019, the amount of annual leave; the Constitution is in `constitution/`.
 
 The text is in English, the English column of the bilingual Federal Negarit Gazette. The Amharic text, which prevails where the two differ, is not part of this record.
 
@@ -19,10 +19,10 @@ The text is in English, the English column of the bilingual Federal Negarit Gaze
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 77 of the Labour Proclamation | `git log -p --word-diff -- labour/art-077.md` |
-| Which law wrote each line of Article 77? | `git blame labour/art-077.md` |
-| Every version of the Labour Proclamation, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- labour ':!*/README.md'` |
-| Article 77 as in force on 1 January 2026 | `python tools/on.py 2026-01-01 labour 77` |
+| Every change to Article 77 of the Labour Proclamation | `git log -p --word-diff -- proclamations/2019/1156-labour/art-077.md` |
+| Which law wrote each line of Article 77? | `git blame proclamations/2019/1156-labour/art-077.md` |
+| Every version of the Labour Proclamation, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- proclamations/2019/1156-labour ':!*/README.md'` |
+| Article 77 as in force on 1 January 2026 | `python3 tools/law.py show 2026-01-01 ethiopia/national/acts/proclamations/2019/1156-labour/art-077.md` (in global-law) |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add ethiopia/national/acts
-python3 tools/law.py show 2026-01-01 ethiopia/national/acts/labour/art-077.md
+python3 tools/law.py show 2026-01-01 ethiopia/national/acts/proclamations/2019/1156-labour/art-077.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -64,7 +64,7 @@ Each version is credited to the proclamation that made it (the Constitution to P
 ## What it does not show
 
 - **Amendments.** Each act is held once, as first published; later amending proclamations are not applied, so an article may differ from the text in force today.
-- **Most federal law.** Federal proclamations are numbered from No. 1/1995 (the Constitution's) to No. 1426/2026, the newest here; this record holds 79 of them, one on `future`. Regulations, directives, regional law, case law and bills are not here.
+- **Every federal act.** Only issues whose PDF has an English text layer and whose articles, signature and in-force day pass the checks are here; scanned issues (no OCR is used) and issues that fail a check are left out and listed in `REPRODUCE.md`. Directives, regional law, case law and bills are not here.
 - **The Amharic text, and PART, CHAPTER and SECTION headings.** Each file starts with its article's number and heading.
 - **Articles that start later than the rest of their act** (Federal Courts Proclamation, Article 56(2): Articles 11 to 15, six months on) are dated with the rest.
 - **The Constitution from the Gazette itself.** Its text is a third-party copy of Federal Negarit Gazeta no. 1 of 1995.

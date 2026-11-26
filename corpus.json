@@ -1,0 +1,32 @@
+{
+  "corpus": "et/national/acts",
+  "name": "Ethiopian federal law: the Constitution, proclamations and Council of Ministers regulations, each as first published in the Federal Negarit Gazette (English text)",
+  "label": "Ethiopia",
+  "language": "en",
+  "history_from": "1995-08-21",
+  "history_note": "each act as first published; amendments are separate acts and are not yet applied to the act they amend",
+  "built": "2026-11-26",
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "In-force-evidence",
+      "Ethiopian-date",
+      "Published",
+      "Source",
+      "Kind"
+    ],
+    "time": "12:00 Africa/Addis_Ababa (UTC+3)"
+  },
+  "in_force_trailer": "In-force",
+  "has_future_branch": true,
+  "author": "the instrument (e.g. 'Proclamation No. 1156/2019')",
+  "citation": {
+    "file": "((?:proclamations|regulations|directives)/[0-9]{4}/[^/]+|constitution)/art-([0-9]+)\\.md",
+    "cites": "(^|[^0-9/])Article {n}\\b",
+    "note": "an article is cited inside its act as \"Article 12\" or \"Art. 12\"; file art-012.md"
+  },
+  "sources": [
+    "https://www.metaappz.com/References/ethiopian_laws/federal/ethiopian_laws_federal",
+    "https://www.derechos.org/intlaw/doc/eth2.html"
+  ]
+}

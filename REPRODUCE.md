@@ -472,3 +472,20 @@ Model use at data-build time:
 - GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
 - GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
 - GPT-6 configured source-derived article boundaries and date metadata; all legal wording is extracted by code from the Gazette PDF text layer.
+
+## 2026-11-26: type/year layout and the Gazette catalogue
+
+- One pure-rename commit moved each act from a flat folder (`labour/`) to `proclamations/<year>/<number>-<slug>/`
+  (see `STRUCTURE.md`). No file content changed.
+- The MetaAppz catalogue of federal laws (1,300 proclamations and 494 Council of Ministers regulations listed on
+  2026-11-26, <https://www.metaappz.com/References/ethiopian_laws/federal/ethiopian_laws_federal>) is read page by page,
+  one request at a time with at least 1 s between requests; robots.txt allows all paths.
+- For each issue not yet held, the PDF is fetched and its English column read from the text layer by the same code as
+  before (`gazette.py`, `autospec.py` with the start line widened to Council of Ministers regulations, `parts.py`). An
+  act is committed only when: one start line, article numbers 1..N without gaps, the last article is the commencement
+  article, and the in-force day read from it agrees with the issue's dates (cover, running heads, signature). Text
+  printed after the signature (schedules, ratified agreements) goes into `annex.md`.
+- Left out: scans without a text layer (no OCR), issues failing a check, and acts in force after the build day. The
+  1960 Civil Code (only an OCR text layer is available, from WIPO Lex) and the 2004 Criminal Code (the WIPO Lex copy
+  omits Articles 665-691 and others) are not here yet.
+- Each new commit carries an `Ethiopian-date` trailer: the in-force day in the Ethiopian calendar.
