@@ -9,7 +9,7 @@ The law of Ethiopia as a git history: one file per article, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Ethiopia's national law, which global-law reads at `ethiopia/national/acts/`.
 
-**What is in it now:** the Constitution of 1995, 518 federal proclamations and 135 Council of Ministers regulations, each as first published in the Federal Negarit Gazette (18,235 files); one more proclamation, in force from 21 July 2027, is on the `future` branch. See [STRUCTURE.md](STRUCTURE.md) for the layout.
+**What is in it now:** the Constitution of 1995, 566 federal proclamations and 156 Council of Ministers regulations, each as first published in the Federal Negarit Gazette (19,254 files); one more proclamation, in force from 21 July 2027, is on the `future` branch. See [STRUCTURE.md](STRUCTURE.md) for the layout.
 
 Each act has its own folder, by type, year and number, one file per article: `proclamations/2019/1156-labour/art-077.md` is Article 77 of the Labour Proclamation No. 1156/2019, the amount of annual leave; the Constitution is in `constitution/`.
 
