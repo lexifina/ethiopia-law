@@ -9,7 +9,7 @@ How this repository is laid out, and how a commit is dated.
 | `constitution/` | The Constitution of the Federal Democratic Republic of Ethiopia, Proclamation No. 1/1995 |
 | `proclamations/<year>/<number>-<slug>/` | Federal proclamations of the House of Peoples' Representatives, by the year and number of the proclamation (`proclamations/2019/1156-labour/` is Labour Proclamation No. 1156/2019) |
 | `regulations/<year>/<number>-<slug>/` | Council of Ministers regulations, the same way (`regulations/2020/0469-...` is Regulation No. 469/2020) |
-| `directives/<year>/<number>-<slug>/` | Directives, the same way (none yet) |
+| `directives/nbe/<year>/<code>-<slug>/` | Directives of the National Bank of Ethiopia, by the year in the directive's number (`directives/nbe/2025/sbb-95-2025-...` is Directive No. SBB/95/2025); one file per article, or `text.md` when the articles cannot be told apart; dated on the day the directive's own effective-date article names |
 | `data/`, `tools/` | Tables and the scripts that read the history |
 
 The number is written with four digits (`0469`) so that a folder listing sorts in number order. The year is the year in

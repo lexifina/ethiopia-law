@@ -10,6 +10,10 @@ Further proclamations and regulations are copied from the Federal Negarit Gazett
 
 The Civil Code (1960), Criminal Code (2004), Civil Procedure Code (1965) and Criminal Procedure Code (1961) in codes/ are the OCR text layers of scanned copies hosted by LawEthiopia (https://www.lawethiopia.com/) and Citizenship Rights in Africa (https://citizenshiprightsafrica.org/); those hosts are credited as the source of the bytes, not the publisher, and Lexifina makes no claim about their terms of use. The legal text is exempt from copyright under the same Article 5(b).
 
+Directives of the National Bank of Ethiopia in directives/nbe/ are copied from the Bank's own PDFs (https://nbe.gov.et/mandates/directives/), an official source; the same Article 5(b) exclusion applies.
+
+Some proclamations and regulations are copied from FAOLEX, the legislative database of the Food and Agriculture Organization of the United Nations (https://www.fao.org/faolex/), as a secondary copy of the Gazette issue; each such commit says so in its Source-status trailer. FAOLEX is credited as the source of the bytes, not the publisher; FAO's terms allow non-commercial reuse with credit to FAOLEX.
+
 Changes made by Lexifina: each text was converted to one Markdown file per article (from the HTML page for the Constitution, from the PDF text layer for the proclamations), one paragraph or item per line; line wraps, spacing and quotation marks were normalised; Chapter, Part and Section headings, the Amharic column, running heads and page numbers were left out. The wording of the law was not changed.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the

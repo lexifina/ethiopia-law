@@ -489,3 +489,19 @@ Model use at data-build time:
   1960 Civil Code (only an OCR text layer is available, from WIPO Lex) and the 2004 Criminal Code (the WIPO Lex copy
   omits Articles 665-691 and others) are not here yet.
 - Each new commit carries an `Ethiopian-date` trailer: the in-force day in the Ethiopian calendar.
+
+## 2026-11-27: parser fixes, National Bank of Ethiopia directives, FAOLEX copies
+
+- Issues held by a parser check were read again after three fixes: an article number printed with look-alike letters
+  in the text layer (`l. Short Title` for 1, `I0.` for 10) is read as the digits; the signature line is also found
+  when printed `Done of Addis Ababa`, `Dane at` or `Donate Addis Ababa`; and an act signed a few days (at most 31)
+  before its issue, whose cover and running heads agree, takes the issue's date when it is in force on publication.
+  Every other check is unchanged.
+- `directives/nbe/<year>/<code>-<slug>/`: directives of the National Bank of Ethiopia, from the Bank's own list
+  (<https://nbe.gov.et/wp-json/wp/v2/files>, then each file page and its PDF, one request at a time, 1.5 s apart). A
+  directive is taken when its PDF has an English text layer and its own effective-date article names the day it
+  enters into force; that day dates the commit. Reports, guidelines, strategies and scans are left out. When the
+  articles cannot be told apart reliably the text is one file, `text.md`.
+- Federal proclamations and regulations found only in FAOLEX (FAO's legislative database; records listed in its public
+  sitemaps) are parsed by the same Gazette checks as the official copies, and carry `Source-status: secondary copy
+  (FAOLEX, <record>)`.
